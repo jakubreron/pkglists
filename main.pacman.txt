@@ -13,7 +13,6 @@ betterdiscord-installer
 bind
 binutils
 bison
-blanket
 blueman
 bluez-utils
 calcurse
@@ -98,7 +97,6 @@ m4
 maim
 make
 man-db
-materia-gtk-theme
 mcfly
 mda.lv2
 mediainfo
@@ -180,7 +178,6 @@ reflector
 
 ripgrep
 rmlint
-rpm-tools
 rsync
 rust
 sc-im
@@ -221,6 +218,9 @@ vulkan-radeon
 w3m
 wget
 which
+whitesur-gtk-theme-git
+whitesur-icon-theme
+whitesur-kvantum-theme-git
 words
 xcape
 xclip
