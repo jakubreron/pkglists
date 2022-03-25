@@ -13,8 +13,8 @@ betterdiscord-installer
 bind
 binutils
 bison
-blanket
 blueberry
+blueman
 bluez-utils
 btmenu
 calcurse
@@ -52,6 +52,7 @@ file-roller
 firefox-developer-edition
 flex
 fnm-bin
+freerdp
 fzf
 gcc
 gimp
@@ -61,7 +62,7 @@ gitflow-avh
 gnome-disk-utility
 gnome-keyring
 gnome-sound-recorder
-gnome-themes-extra
+gnome-system-monitor
 go
 google-chrome
 gotop
@@ -91,7 +92,6 @@ maestral
 maim
 make
 man-db
-materia-gtk-theme
 mcfly
 mda.lv2
 mediainfo
@@ -119,6 +119,7 @@ ntfs-3g
 ntp
 odt2txt
 os-prober
+p7zip
 pacman-contrib
 pam-gnupg
 pamixer
@@ -162,11 +163,14 @@ stow
 stylua-bin
 sudo
 task-spooler
+teams
 texinfo
 ticker
 tldr
 
 
+transmission-cli
+transmission-gtk
 ttf-font-awesome
 ttf-google-sans
 ttf-ubraille
@@ -182,6 +186,10 @@ vim
 w3m
 wget
 which
+whitesur-cursor-theme-git
+whitesur-gtk-theme-git
+whitesur-icon-theme
+whitesur-kvantum-theme-git
 words
 xcape
 xclip
