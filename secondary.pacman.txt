@@ -73,7 +73,6 @@ inotify-tools
 jq
 kdeconnect
 kvantum
-kvantum-theme-materia
 lazydocker-bin
 lazygit
 lf-git
