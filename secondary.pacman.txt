@@ -168,6 +168,7 @@ ticker
 tldr
 
 
+tp_smapi
 transmission-cli
 transmission-gtk
 ttf-font-awesome
