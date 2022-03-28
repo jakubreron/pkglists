@@ -129,6 +129,7 @@ lzo
 m4
 mbedtls
 mcfly
+media-info
 meson
 mpc
 mpd
@@ -198,6 +199,7 @@ zsh-fast-syntax-highlighting
 zstd
 anki
 iterm2
+karabiner-elements
 mediainfo
 mpv
 skype
