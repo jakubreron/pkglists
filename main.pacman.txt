@@ -55,6 +55,7 @@ findutils
 firefox-developer-edition
 flex
 fnm-bin
+fragments
 freerdp
 fzf
 gawk
@@ -200,9 +201,7 @@ texinfo
 ticker
 tldr
 transmission-cli
-transmission-gtk
 ttf-font-awesome
-ttf-google-sans
 ttf-ubraille
 tumbler
 ueberzug
