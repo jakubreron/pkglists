@@ -80,8 +80,6 @@ inotify-tools
 
 jq
 kdeconnect
-kvantum
-kvantum-theme-materia
 lazydocker
 lazygit
 lf-git
