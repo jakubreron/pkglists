@@ -1,6 +1,8 @@
 abook
 acpi_call
-adwaita-icon-theme
+adw-gtk3
+adwaita-icon-theme-git
+adwaita-qt
 anki-official-binary-bundle
 arandr
 atool
@@ -31,6 +33,7 @@ dog
 dosfstools
 downgrade
 dragon-drag-and-drop
+drawing
 duf
 dunst
 dust
@@ -52,6 +55,7 @@ file-roller
 firefox-developer-edition
 flex
 fnm-bin
+fragments
 freerdp
 fzf
 gcc
@@ -72,7 +76,6 @@ htop-vim
 inotify-tools
 jq
 kdeconnect
-kvantum
 lazydocker-bin
 lazygit
 lf-git
@@ -170,9 +173,7 @@ tldr
 
 tp_smapi
 transmission-cli
-transmission-gtk
 ttf-font-awesome
-ttf-google-sans
 ttf-ubraille
 tumbler
 ueberzug
@@ -187,9 +188,6 @@ w3m
 wget
 which
 whitesur-cursor-theme-git
-whitesur-gtk-theme-git
-whitesur-icon-theme
-whitesur-kvantum-theme-git
 words
 xcape
 xclip
