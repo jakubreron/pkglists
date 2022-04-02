@@ -1,5 +1,7 @@
 abook
-adwaita-icon-theme
+adw-gtk3
+adwaita-icon-theme-git
+adwaita-qt
 android-studio
 anki-official-binary-bundle
 arandr
@@ -218,9 +220,7 @@ vulkan-radeon
 w3m
 wget
 which
-whitesur-gtk-theme-git
-whitesur-icon-theme
-whitesur-kvantum-theme-git
+whitesur-cursor-theme-git
 words
 xcape
 xclip
