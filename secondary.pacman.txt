@@ -159,6 +159,7 @@ screenkey
 seahorse
 shellcheck
 simple-mtpfs
+skippy-xd-git
 slock
 sshfs
 stow
@@ -174,6 +175,7 @@ tldr
 tp_smapi
 transmission-cli
 ttf-font-awesome
+ttf-google-sans
 ttf-ubraille
 tumbler
 ueberzug
