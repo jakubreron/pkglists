@@ -203,6 +203,7 @@ ticker
 tldr
 transmission-cli
 ttf-font-awesome
+ttf-google-sans
 ttf-ubraille
 tumbler
 ueberzug
