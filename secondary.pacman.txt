@@ -1,7 +1,7 @@
 abook
 acpi_call
 adw-gtk3
-adwaita-icon-theme-git
+adwaita-icon-theme
 adwaita-qt
 anki-official-binary-bundle
 arandr
