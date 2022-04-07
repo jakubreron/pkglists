@@ -1,6 +1,6 @@
 abook
 adw-gtk3
-adwaita-icon-theme-git
+adwaita-icon-theme
 adwaita-qt
 android-studio
 anki-official-binary-bundle
@@ -189,6 +189,7 @@ seahorse
 sed
 shellcheck
 simple-mtpfs
+skippy-xd-git
 skypeforlinux-stable-bin
 slock
 sshfs
