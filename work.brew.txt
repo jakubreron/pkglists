@@ -183,9 +183,11 @@ tesseract
 theora
 ticker
 tldr
+tmux
 tree-sitter
 unbound
 unibilium
+utf8proc
 webp
 x264
 x265
@@ -200,6 +202,7 @@ zimg
 zsh-completions
 zsh-fast-syntax-highlighting
 zstd
+alacritty
 anki
 iterm2
 karabiner-elements
