@@ -139,22 +139,6 @@ perl-file-mimeinfo
 perl-image-exiftool
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 picom-ibhagwan-git
 pipewire-alsa
 pipewire-jack
