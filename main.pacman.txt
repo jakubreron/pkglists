@@ -202,6 +202,7 @@ teams
 texinfo
 ticker
 tldr
+tmux
 transmission-cli
 ttf-font-awesome
 ttf-google-sans
