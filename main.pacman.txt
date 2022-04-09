@@ -2,6 +2,7 @@ abook
 adw-gtk3
 adwaita-icon-theme
 adwaita-qt
+alacritty
 android-studio
 anki-official-binary-bundle
 arandr
