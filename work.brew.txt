@@ -204,7 +204,6 @@ zsh-fast-syntax-highlighting
 zstd
 alacritty
 anki
-iterm2
 karabiner-elements
 mediainfo
 mpv
