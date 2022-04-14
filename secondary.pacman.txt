@@ -101,6 +101,7 @@ mlocate
 mpc
 mpd
 mpv
+mpv-mpvacious
 mutt-wizard
 nautilus
 ncdu
@@ -159,7 +160,6 @@ screenkey
 seahorse
 shellcheck
 simple-mtpfs
-skippy-xd-git
 slock
 sshfs
 stow
@@ -172,6 +172,7 @@ ticker
 tldr
 
 
+tmux
 tp_smapi
 transmission-cli
 ttf-font-awesome
