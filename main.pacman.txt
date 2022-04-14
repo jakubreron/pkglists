@@ -3,6 +3,7 @@ adw-gtk3
 adwaita-icon-theme
 adwaita-qt
 alacritty
+android-emulator
 android-studio
 anki-official-binary-bundle
 arandr
@@ -174,8 +175,6 @@ seahorse
 sed
 shellcheck
 simple-mtpfs
-skippy-xd-git
-skypeforlinux-stable-bin
 slock
 sshfs
 stalonetray
