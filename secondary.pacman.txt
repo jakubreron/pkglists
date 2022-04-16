@@ -3,7 +3,8 @@ acpi_call
 adw-gtk3
 adwaita-icon-theme
 adwaita-qt
-anki-official-binary-bundle
+adwaita-qt6
+anki-bin
 arandr
 atool
 autoconf
@@ -146,6 +147,7 @@ python-pywal
 pywal-discord-git
 qt5-tools
 qt5ct
+qt6ct
 redis
 redshift
 reflector
