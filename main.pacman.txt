@@ -158,7 +158,6 @@ python-pip
 python-pywal
 python-stone
 pywal-discord-git
-qt5-tools
 qt5ct
 qt6ct
 redshift
