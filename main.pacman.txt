@@ -2,9 +2,10 @@ abook
 adw-gtk3
 adwaita-icon-theme
 adwaita-qt
+adwaita-qt6
 alacritty
 android-studio
-anki-official-binary-bundle
+anki-bin
 arandr
 atool
 autoconf
@@ -159,6 +160,8 @@ python-stone
 pywal-discord-git
 qt5-tools
 qt5ct
+qt6ct
+qt6gtk2
 redshift
 reflector
 
