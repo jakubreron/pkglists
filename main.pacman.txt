@@ -179,7 +179,7 @@ slock
 sshfs
 stalonetray
 stow
-stylua-bin
+stylua
 sudo
 task-spooler
 teams
