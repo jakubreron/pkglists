@@ -165,7 +165,7 @@ simple-mtpfs
 slock
 sshfs
 stow
-stylua-bin
+stylua
 sudo
 task-spooler
 teams
