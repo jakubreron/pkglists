@@ -1,8 +1,6 @@
 abook
 adw-gtk3
 adwaita-icon-theme
-adwaita-qt
-adwaita-qt6
 alacritty
 android-studio
 anki-bin
@@ -30,6 +28,7 @@ discord
 dnsmasq
 docx2txt
 dog
+dolphin
 dosfstools
 downgrade
 dragon-drag-and-drop
@@ -158,8 +157,7 @@ python-pip
 python-pywal
 python-stone
 pywal-discord-git
-qt5ct
-qt6ct
+qt6-tools-desktop
 redshift
 reflector
 
