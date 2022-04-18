@@ -47,7 +47,6 @@ fakeroot
 fcitx
 fcitx-configtool
 fcitx-mozc
-fcitx-qt5
 fd
 ffmpeg
 ffmpegthumbnailer
@@ -157,7 +156,6 @@ python-pip
 python-pywal
 python-stone
 pywal-discord-git
-qt6-tools-desktop
 redshift
 reflector
 
