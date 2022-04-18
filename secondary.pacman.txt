@@ -2,8 +2,6 @@ abook
 acpi_call
 adw-gtk3
 adwaita-icon-theme
-adwaita-qt
-adwaita-qt6
 anki-bin
 arandr
 atool
@@ -19,6 +17,7 @@ bison
 blueberry
 blueman
 bluez-utils
+breeze
 btmenu
 calcurse
 catdoc
@@ -48,7 +47,6 @@ fakeroot
 fcitx
 fcitx-configtool
 fcitx-mozc
-fcitx-qt5
 fd
 ffmpeg
 ffmpegthumbnailer
@@ -143,11 +141,10 @@ postman-bin
 procs
 pulsemixer
 python-pip
+python-pyqt5
 python-pywal
 pywal-discord-git
 qt5-tools
-qt5ct
-qt6ct
 redis
 redshift
 reflector
