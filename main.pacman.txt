@@ -17,6 +17,7 @@ binutils
 bison
 blueman
 bluez-utils
+breeze
 calcurse
 catdoc
 colorpicker
