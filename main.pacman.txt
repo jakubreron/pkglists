@@ -28,7 +28,6 @@ discord
 dnsmasq
 docx2txt
 dog
-dolphin
 dosfstools
 downgrade
 dragon-drag-and-drop
