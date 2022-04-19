@@ -212,7 +212,6 @@ alacritty
 amethyst
 anki
 karabiner-elements
-keyboard-maestro
 mediainfo
 mpv
 skype
