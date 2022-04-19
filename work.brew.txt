@@ -45,6 +45,7 @@ git-flow
 glib
 gmp
 gnumeric
+gnupg
 gnutls
 gobject-introspection
 goffice
@@ -74,6 +75,7 @@ lf
 libao
 libarchive
 libass
+libassuan
 libb2
 libbluray
 libepoxy
@@ -84,6 +86,7 @@ libgpg-error
 libgsf
 libid3tag
 libidn2
+libksba
 libmagic
 libmpc
 libmpdclient
@@ -107,6 +110,7 @@ libtiff
 libtool
 libunistring
 libupnp
+libusb
 libuv
 libvidstab
 libvmaf
@@ -145,6 +149,7 @@ neofetch
 neovim
 nettle
 ninja
+npth
 odt2txt
 open-mpi
 opencore-amr
@@ -157,6 +162,7 @@ p7zip
 pango
 pcre
 pcre2
+pinentry
 pixman
 pkg-config
 portaudio
@@ -203,8 +209,10 @@ zsh-completions
 zsh-fast-syntax-highlighting
 zstd
 alacritty
+amethyst
 anki
 karabiner-elements
+keyboard-maestro
 mediainfo
 mpv
 skype
