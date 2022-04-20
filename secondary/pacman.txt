@@ -2,6 +2,7 @@ abook
 acpi_call
 adw-gtk3
 adwaita-icon-theme
+alacritty
 anki-bin
 arandr
 atool
