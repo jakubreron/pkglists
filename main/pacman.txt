@@ -92,7 +92,6 @@ libxft-bgra-git
 linux
 linux-firmware
 luacheck
-lxappearance
 lxrandr
 lynx
 m4
