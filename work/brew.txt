@@ -44,6 +44,7 @@ git-delta
 git-flow
 glib
 gmp
+gnu-sed
 gnumeric
 gnupg
 gnutls
@@ -137,6 +138,7 @@ mbedtls
 mcfly
 media-info
 meson
+moreutils
 mpc
 mpd
 mpdecimal
@@ -210,7 +212,6 @@ zsh-fast-syntax-highlighting
 zstd
 alacritty
 amethyst
-anki
 karabiner-elements
 mediainfo
 mpv
