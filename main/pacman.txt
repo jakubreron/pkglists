@@ -101,6 +101,7 @@ man-db
 mcfly
 mda.lv2
 mediainfo
+mkvtoolnix-gui
 mlocate
 mpc
 mpd
