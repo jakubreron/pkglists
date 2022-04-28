@@ -86,7 +86,6 @@ libxft-bgra-git
 linux
 linux-firmware
 luacheck
-lxappearance
 lxrandr
 lynx
 m4
@@ -190,6 +189,7 @@ w3m
 wget
 which
 whitesur-cursor-theme-git
+whois
 words
 xcape
 xclip
