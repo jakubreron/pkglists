@@ -66,6 +66,7 @@ gimp
 git
 git-delta
 gitflow-avh
+github-cli
 gnome-boxes
 gnome-disk-utility
 gnome-sound-recorder
