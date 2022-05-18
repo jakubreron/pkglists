@@ -20,6 +20,7 @@ bluez-utils
 breeze
 calcurse
 catdoc
+cointop-bin
 colorpicker
 cronie
 ctags
@@ -203,6 +204,7 @@ w3m
 wget
 which
 whitesur-cursor-theme-git
+whois
 words
 xcape
 xclip
