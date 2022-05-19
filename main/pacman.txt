@@ -79,7 +79,7 @@ grep
 groff
 grub
 gzip
-htop-vim
+htop
 inotify-tools
 
 jq
@@ -166,20 +166,17 @@ ripgrep
 rmlint
 rsync
 rust
-sc-im
 screen
 screenkey
 seahorse
 sed
 shellcheck
-simple-mtpfs
 slock
 sshfs
 stalonetray
 stow
 stylua
 sudo
-task-spooler
 teams
 texinfo
 ticker
