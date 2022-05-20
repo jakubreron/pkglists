@@ -209,6 +209,7 @@ xdotool
 xorg-server
 xorg-xbacklight
 xorg-xdpyinfo
+xorg-xhost
 xorg-xinit
 xorg-xkill
 xorg-xprop
