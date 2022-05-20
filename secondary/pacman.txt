@@ -154,7 +154,6 @@ rmlint
 rsync
 rust
 sassc
-screen
 screenkey
 seahorse
 shellcheck
