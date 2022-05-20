@@ -22,6 +22,7 @@ breeze
 btmenu
 calcurse
 catdoc
+cointop-bin
 colorpicker
 cronie
 ctags
@@ -72,7 +73,7 @@ google-chrome
 gotop
 groff
 grub
-htop-vim
+htop
 inotify-tools
 jq
 kdeconnect
@@ -153,18 +154,15 @@ rmlint
 rsync
 rust
 sassc
-sc-im
 screen
 screenkey
 seahorse
 shellcheck
-simple-mtpfs
 slock
 sshfs
 stow
 stylua
 sudo
-task-spooler
 texinfo
 ticker
 tldr
@@ -185,6 +183,7 @@ unzip
 urlview
 vidir
 vim
+vlc
 w3m
 wget
 which
