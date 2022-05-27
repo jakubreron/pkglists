@@ -12,6 +12,7 @@ cairo
 cjson
 cmocka
 cocoapods
+cointop
 dav1d
 desktop-file-utils
 docx2txt
@@ -212,6 +213,8 @@ zsh-fast-syntax-highlighting
 zstd
 alacritty
 amethyst
+anki
+bluesnooze
 karabiner-elements
 mediainfo
 mpv
