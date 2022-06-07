@@ -179,6 +179,7 @@ shellcheck
 slock
 sshfs
 stalonetray
+
 stow
 stylua
 sudo
