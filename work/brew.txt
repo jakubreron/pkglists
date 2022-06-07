@@ -216,6 +216,8 @@ amethyst
 anki
 bluesnooze
 karabiner-elements
+keepassxc
 mediainfo
 mpv
-skype
+vscodium
+zoom
