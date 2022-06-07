@@ -84,6 +84,9 @@ inotify-tools
 
 jq
 kdeconnect
+keepassxc
+kvantum
+kvantum-theme-libadwaita-git
 lazydocker
 lazygit
 lf-git
@@ -158,6 +161,8 @@ python-pip
 python-pywal
 python-stone
 pywal-discord-git
+qt5ct
+qt6ct
 redshift
 reflector
 
