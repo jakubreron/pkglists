@@ -181,7 +181,6 @@ ttf-ubraille
 tumbler
 ueberzug
 unclutter
-universal-android-debloater-opengl-bin
 unoconv
 unrar
 unzip
