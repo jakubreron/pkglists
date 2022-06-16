@@ -77,6 +77,9 @@ htop
 inotify-tools
 jq
 kdeconnect
+keepassxc
+kvantum
+kvantum-theme-libadwaita-git
 lazydocker-bin
 lazygit
 lf-git
@@ -146,6 +149,8 @@ python-pyqt5
 python-pywal
 pywal-discord-git
 qt5-tools
+qt5ct
+qt6ct
 redis
 redshift
 reflector
@@ -176,6 +181,7 @@ ttf-ubraille
 tumbler
 ueberzug
 unclutter
+universal-android-debloater-opengl-bin
 unoconv
 unrar
 unzip
@@ -197,6 +203,7 @@ xdotool
 xorg-server
 xorg-xbacklight
 xorg-xdpyinfo
+xorg-xhost
 xorg-xinit
 xorg-xkill
 xorg-xprop
