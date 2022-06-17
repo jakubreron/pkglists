@@ -1,18 +1,2 @@
-php
-php-apcu
-php-fpm
-php-gd
-php-igbinary
-php-imagick
-php-imap
-php-intl
-php-mcrypt
-php-memcache
-php-memcached
-php-pear
-php-pgsql
-php-redis
-php-sodium
-php-swoole
 
 
