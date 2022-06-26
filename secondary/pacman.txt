@@ -15,7 +15,6 @@ betterdiscord-installer
 bind
 binutils
 bison
-blueberry
 blueman
 bluez-utils
 breeze
