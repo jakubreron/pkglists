@@ -208,7 +208,6 @@ which
 whitesur-cursor-theme-git
 whois
 words
-xbindkeys
 xcape
 xclip
 xdotool
