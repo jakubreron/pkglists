@@ -99,6 +99,7 @@ man-db
 mcfly
 mda.lv2
 mediainfo
+meld-git
 mlocate
 mpc
 mpd
