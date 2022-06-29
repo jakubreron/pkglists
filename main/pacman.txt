@@ -169,6 +169,7 @@ reflector
 
 ripgrep
 rmlint
+rofi
 rsync
 rust
 screen
