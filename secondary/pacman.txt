@@ -156,6 +156,7 @@ redshift
 reflector
 ripgrep
 rmlint
+rofi
 rsync
 rust
 sassc
