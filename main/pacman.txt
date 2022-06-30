@@ -218,6 +218,7 @@ xorg-xbacklight
 xorg-xdpyinfo
 xorg-xhost
 xorg-xinit
+xorg-xinput
 xorg-xkill
 xorg-xprop
 xorg-xrandr
