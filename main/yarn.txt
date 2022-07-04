@@ -9,7 +9,7 @@ commitizen@4.2.4
 create-vite@2.9.4
 diagnostic-languageserver@1.14.2
 emmet-ls@0.2.2
-eslint@8.18.0
+eslint@8.19.0
 eslint_d@11.1.1
 git-cz@4.9.0
 markdownlint-cli@0.31.1
@@ -19,7 +19,7 @@ npkill@0.8.3
 speed-test@3.0.0
 stylelint@14.9.1
 tree-sitter-cli@0.20.6
-ts-node@10.8.1
+ts-node@10.8.2
 typescript@4.7.4
 typescript-language-server@0.9.7
 vite@2.9.13
