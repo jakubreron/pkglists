@@ -3,7 +3,7 @@
 @fsouza/prettierd@0.19.2
 @tailwindcss/language-server@0.0.7
 @volar/server@0.32.1
-@vue/cli@5.0.6
+@vue/cli@5.0.7
 add-gitignore@1.1.1
 commitizen@4.2.4
 create-vite@2.9.4
