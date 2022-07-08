@@ -69,6 +69,7 @@ isl
 itstool
 jpeg
 jpeg-xl
+jq
 lame
 lazydocker
 lazygit
@@ -154,6 +155,7 @@ nettle
 ninja
 npth
 odt2txt
+oniguruma
 open-mpi
 opencore-amr
 openexr
