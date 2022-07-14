@@ -54,7 +54,7 @@ ffmpegthumbnailer
 file
 file-roller
 findutils
-firefox-developer-edition
+firefox
 flex
 fnm-bin
 fragments
