@@ -52,7 +52,7 @@ fd
 ffmpeg
 ffmpegthumbnailer
 file-roller
-firefox-developer-edition
+firefox
 flex
 fnm-bin
 fragments
