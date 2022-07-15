@@ -130,6 +130,7 @@ libyaml
 libzip
 little-cms2
 lua
+luajit
 luajit-openresty
 luarocks
 luv
@@ -222,5 +223,6 @@ keepassxc
 mediainfo
 meld
 mpv
+qgroundcontrol
 vscodium
 zoom
