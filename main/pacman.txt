@@ -2,7 +2,6 @@ abook
 adw-gtk3
 adwaita-icon-theme
 alacritty
-android-studio
 anki-bin
 arandr
 atool
