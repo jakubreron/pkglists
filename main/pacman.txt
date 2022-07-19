@@ -188,6 +188,7 @@ texinfo
 ticker
 tldr
 tmux
+tor-browser
 transmission-cli
 ttf-font-awesome
 ttf-google-sans
