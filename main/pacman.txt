@@ -19,6 +19,7 @@ bluez-utils
 breeze
 calcurse
 catdoc
+chromium
 cointop-bin
 colorpicker
 cronie
@@ -72,7 +73,6 @@ gnome-disk-utility
 gnome-sound-recorder
 gnome-system-monitor
 go
-google-chrome
 gotop-bin
 grep
 groff
@@ -142,8 +142,6 @@ paru-bin
 patch
 perl-file-mimeinfo
 perl-image-exiftool
-
-
 picom-ibhagwan-git
 pipewire-alsa
 pipewire-jack
