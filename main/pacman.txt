@@ -1,5 +1,5 @@
 abook
-adw-gtk3
+adw-gtk3-git
 adwaita-icon-theme
 alacritty
 anki-bin
@@ -17,6 +17,7 @@ bison
 blueman
 bluez-utils
 breeze
+btop
 calcurse
 catdoc
 chromium
@@ -73,12 +74,10 @@ gnome-disk-utility
 gnome-sound-recorder
 gnome-system-monitor
 go
-gotop-bin
 grep
 groff
 grub
 gzip
-htop
 inotify-tools
 
 jq
@@ -194,6 +193,7 @@ ttf-ubraille
 tumbler
 ueberzug
 unclutter
+universal-android-debloater-bin
 unoconv
 unrar
 unzip
