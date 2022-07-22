@@ -21,6 +21,7 @@ breeze
 btmenu
 calcurse
 catdoc
+chromium
 cointop-bin
 colorpicker
 cronie
@@ -33,7 +34,7 @@ docx2txt
 dog
 dosfstools
 downgrade
-dragon-drag-and-drop
+dragon-drop
 drawing
 duf
 dunst
@@ -68,7 +69,6 @@ gnome-keyring
 gnome-sound-recorder
 gnome-system-monitor
 go
-google-chrome
 gotop
 groff
 grub
