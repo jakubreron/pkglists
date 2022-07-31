@@ -62,6 +62,7 @@ fragments
 freerdp
 fzf
 gawk
+gazou-git
 gcc
 gettext
 gimp
@@ -83,6 +84,7 @@ inotify-tools
 jq
 kdeconnect
 keepassxc
+komikku
 kvantum
 kvantum-theme-libadwaita-git
 lazydocker
