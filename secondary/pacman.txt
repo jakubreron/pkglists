@@ -1,6 +1,6 @@
 abook
 acpi_call
-adw-gtk3
+adw-gtk3-git
 adwaita-icon-theme
 alacritty
 anki-bin
@@ -19,6 +19,7 @@ blueman
 bluez-utils
 breeze
 btmenu
+btop
 calcurse
 catdoc
 chromium
@@ -59,6 +60,7 @@ fnm-bin
 fragments
 freerdp
 fzf
+gazou-git
 gcc
 gimp
 git
@@ -69,7 +71,6 @@ gnome-keyring
 gnome-sound-recorder
 gnome-system-monitor
 go
-gotop
 groff
 grub
 htop
@@ -169,6 +170,7 @@ stow
 stylua
 sudo
 teams
+tesseract-data-jpn
 texinfo
 ticker
 tldr
