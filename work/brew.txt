@@ -68,6 +68,7 @@ intltool
 isl
 itstool
 jpeg
+jpeg-turbo
 jpeg-xl
 jq
 lame
