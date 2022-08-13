@@ -10,6 +10,7 @@ c-ares
 ca-certificates
 cairo
 cjson
+cmake
 cmocka
 cocoapods
 cointop

@@ -18,7 +18,6 @@ bison
 blueman
 bluez-utils
 breeze
-btmenu
 btop
 calcurse
 catdoc
