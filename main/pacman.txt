@@ -44,7 +44,6 @@ entr
 epub-thumbnailer-git
 exa
 exfat-utils
-exodus
 fakeroot
 fcitx
 fcitx-configtool
@@ -69,7 +68,6 @@ gimp
 git
 git-delta
 gitflow-avh
-github-cli
 gnome-boxes
 gnome-disk-utility
 gnome-sound-recorder
@@ -79,12 +77,12 @@ grep
 groff
 grub
 gzip
+img2pdf
 inotify-tools
 
 jq
 kdeconnect
 keepassxc
-komikku
 kvantum
 kvantum-theme-libadwaita-git
 lazydocker
@@ -167,7 +165,6 @@ reflector
 
 ripgrep
 rmlint
-rofi
 rsync
 rust
 screen
@@ -183,6 +180,7 @@ stow
 stylua
 sudo
 teams
+tesseract-data-jpn
 texinfo
 ticker
 tldr
@@ -196,7 +194,6 @@ tumbler
 ueberzug
 unclutter
 universal-android-debloater-bin
-unoconv
 unrar
 unzip
 urlview
