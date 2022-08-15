@@ -70,6 +70,7 @@ gnome-keyring
 gnome-sound-recorder
 gnome-system-monitor
 go
+grive
 groff
 grub
 htop
@@ -178,7 +179,6 @@ tldr
 tmux
 tp_smapi
 transmission-cli
-ttf-font-awesome
 ttf-google-sans
 ttf-ubraille
 tumbler
