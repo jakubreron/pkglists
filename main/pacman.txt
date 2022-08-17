@@ -74,6 +74,7 @@ gnome-sound-recorder
 gnome-system-monitor
 go
 grep
+grive
 groff
 grub
 gzip
@@ -125,6 +126,7 @@ nginx
 nmap
 nodejs
 notmuch
+noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 npm
@@ -187,7 +189,6 @@ tldr
 tmux
 tor-browser
 transmission-cli
-ttf-font-awesome
 ttf-google-sans
 ttf-ubraille
 tumbler
