@@ -93,7 +93,6 @@ luacheck
 lxrandr
 lynx
 m4
-maestral
 maim
 make
 man-db
@@ -157,7 +156,6 @@ redshift
 reflector
 ripgrep
 rmlint
-rofi
 rsync
 rust
 sassc
@@ -184,7 +182,6 @@ ttf-ubraille
 tumbler
 ueberzug
 unclutter
-unoconv
 unrar
 unzip
 urlview
