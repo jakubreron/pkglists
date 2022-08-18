@@ -209,7 +209,6 @@ xorgproto
 xvid
 xz
 yarn
-yt-dlp
 zathura
 zeromq
 zimg
