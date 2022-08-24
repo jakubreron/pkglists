@@ -92,7 +92,7 @@ lf-git
 libnotify
 libreoffice-fresh
 libtool
-libxft-bgra-git
+libxft-bgra
 linux
 linux-firmware
 luacheck
