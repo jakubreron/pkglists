@@ -73,6 +73,7 @@ gnome-disk-utility
 gnome-sound-recorder
 gnome-system-monitor
 go
+gotop
 grep
 grive
 groff
@@ -118,7 +119,7 @@ ncdu
 ncmpcpp
 neofetch
 neovim
-nerd-fonts-hack
+nerd-fonts-jetbrains-mono
 net-tools
 networkmanager
 newsboat
@@ -191,7 +192,6 @@ tldr
 tmux
 tor-browser
 transmission-cli
-ttf-google-sans
 ttf-ubraille
 tumbler
 ueberzug
