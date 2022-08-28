@@ -112,6 +112,7 @@ ncmpcpp
 neofetch
 neovim
 nerd-fonts-hack
+nerd-fonts-jetbrains-mono
 net-tools
 networkmanager
 newsboat
