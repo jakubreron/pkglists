@@ -86,7 +86,7 @@ lf-git
 libnotify
 libreoffice-fresh
 libtool
-libxft-bgra-git
+libxft-bgra
 linux
 linux-firmware
 luacheck
@@ -111,7 +111,6 @@ ncdu
 ncmpcpp
 neofetch
 neovim
-nerd-fonts-hack
 nerd-fonts-jetbrains-mono
 net-tools
 networkmanager
@@ -151,6 +150,7 @@ python-pywal
 pywal-discord-git
 qt5-tools
 qt5ct
+qt6-tools
 qt6ct
 redis
 redshift
@@ -178,7 +178,7 @@ tldr
 tmux
 tp_smapi
 transmission-cli
-ttf-google-sans
+ttf-joypixels
 ttf-ubraille
 tumbler
 ueberzug
