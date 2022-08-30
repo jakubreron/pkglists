@@ -176,6 +176,7 @@ tldr
 
 
 tmux
+tor-browser
 tp_smapi
 transmission-cli
 ttf-joypixels
