@@ -73,7 +73,6 @@ gnome-disk-utility
 gnome-sound-recorder
 gnome-system-monitor
 go
-gotop
 grep
 grive
 groff
