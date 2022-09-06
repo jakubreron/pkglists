@@ -5,6 +5,7 @@ cointop
 docx2txt
 duf
 dust
+entr
 exa
 fd
 findutils
