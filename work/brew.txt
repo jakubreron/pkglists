@@ -1,4 +1,5 @@
 achannarasappa/tap/ticker
+atool
 bat
 btop
 cointop
@@ -14,6 +15,7 @@ fzf
 git-delta
 git-flow
 gnu-sed
+gnupg
 lazydocker
 lazygit
 lf
