@@ -43,6 +43,7 @@ easyeffects
 efibootmgr
 entr
 epub-thumbnailer-git
+etcher-bin
 exa
 exfat-utils
 fakeroot
