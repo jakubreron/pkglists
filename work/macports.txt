@@ -1,2 +1,0 @@
-The following ports are currently installed:
-  unrar @6.1.7_0 (active)
