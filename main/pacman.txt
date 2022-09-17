@@ -3,6 +3,7 @@ adw-gtk3-git
 adwaita-icon-theme
 alacritty
 anki-bin
+apple-fonts
 arandr
 atool
 autoconf
