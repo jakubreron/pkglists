@@ -3,7 +3,6 @@ adw-gtk3-git
 adwaita-icon-theme
 alacritty
 anki-bin
-apple-fonts
 arandr
 atool
 autoconf
@@ -52,6 +51,7 @@ fcitx-mozc
 fd
 ffmpeg
 ffmpegthumbnailer
+figma-linux-bin
 file
 file-roller
 findutils
