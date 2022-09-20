@@ -51,7 +51,6 @@ fcitx-mozc
 fd
 ffmpeg
 ffmpegthumbnailer
-figma-linux-bin
 file
 file-roller
 findutils
