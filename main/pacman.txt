@@ -1,5 +1,5 @@
 abook
-adw-gtk3-git
+adw-gtk3
 adwaita-icon-theme
 alacritty
 anki-bin
@@ -105,7 +105,7 @@ man-db
 mcfly
 mda.lv2
 mediainfo
-meld-git
+meld
 mkvtoolnix-gui
 mlocate
 mpc
