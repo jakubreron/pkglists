@@ -11,6 +11,7 @@ exa
 fd
 findutils
 fnm
+fontconfig
 fzf
 git-delta
 git-flow
