@@ -14,6 +14,7 @@ betterdiscord-installer
 bind
 binutils
 bison
+blanket
 blueman
 bluez-utils
 breeze
@@ -68,7 +69,6 @@ gimp
 git
 git-delta
 gitflow-avh
-gnome-boxes
 gnome-disk-utility
 gnome-sound-recorder
 gnome-system-monitor
