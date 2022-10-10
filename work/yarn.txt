@@ -1,4 +1,4 @@
-@angular/cli@14.2.4
+@angular/cli@14.2.5
 @angular/language-server@13.3.4
 @fsouza/prettierd@0.19.2
 @tailwindcss/language-server@0.0.7
