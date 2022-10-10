@@ -137,12 +137,10 @@ perl-image-exiftool
 picom-ibhagwan-git
 pipewire-alsa
 pipewire-jack
-pipewire-jack-dropin
 pkgconf
 pkgstats
 playerctl
 poppler
-postman-bin
 procs
 pulsemixer
 python-pip
