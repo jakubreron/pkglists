@@ -1,4 +1,4 @@
-@angular/cli@14.2.5
+@angular/cli@14.2.6
 @angular/language-server@13.3.4
 @fsouza/prettierd@0.19.2
 @tailwindcss/language-server@0.0.7
@@ -17,6 +17,7 @@ markdownlint-cli@0.31.1
 neovim@4.10.1
 nodemon@2.0.19
 npkill@0.8.3
+prettier@2.7.1
 speed-test@3.0.0
 stylelint@14.9.1
 tree-sitter-cli@0.20.7
