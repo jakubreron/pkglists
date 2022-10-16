@@ -89,7 +89,7 @@ kvantum
 kvantum-theme-libadwaita-git
 lazydocker
 lazygit
-lf-git
+lf
 libnotify
 libreoffice-fresh
 libtool
@@ -152,7 +152,6 @@ pkgconf
 pkgstats
 playerctl
 poppler
-postman-bin
 procs
 pulsemixer
 python-keyring
