@@ -26,6 +26,7 @@ cointop-bin
 colorpicker
 cronie
 ctags
+dash
 dhcpcd
 dialog
 discord
