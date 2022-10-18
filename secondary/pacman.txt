@@ -26,6 +26,7 @@ cointop-bin
 colorpicker
 cronie
 ctags
+dash
 dhcpcd
 dialog
 discord
@@ -43,7 +44,6 @@ easyeffects
 efibootmgr
 entr
 epub-thumbnailer-git
-etcher-bin
 exa
 exfat-utils
 fakeroot
@@ -71,7 +71,6 @@ gnome-keyring
 gnome-sound-recorder
 gnome-system-monitor
 go
-grive
 groff
 grub
 htop
@@ -83,7 +82,7 @@ kvantum
 kvantum-theme-libadwaita-git
 lazydocker-bin
 lazygit
-lf-git
+lf
 libnotify
 libreoffice-fresh
 libtool
@@ -175,7 +174,6 @@ tldr
 
 
 tmux
-tor-browser
 tp_smapi
 transmission-cli
 ttf-joypixels
