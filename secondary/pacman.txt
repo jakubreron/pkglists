@@ -71,6 +71,7 @@ gnome-keyring
 gnome-sound-recorder
 gnome-system-monitor
 go
+grive
 groff
 grub
 htop
