@@ -189,6 +189,7 @@ texinfo
 ticker
 tldr
 tmux
+tor-browser
 transmission-cli
 ttf-ubraille
 tumbler
