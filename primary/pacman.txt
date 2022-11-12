@@ -97,7 +97,6 @@ libtool
 libxft-git
 linux
 linux-firmware
-luacheck
 lxrandr
 lynx
 m4
