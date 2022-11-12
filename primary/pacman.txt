@@ -2,6 +2,7 @@ abook
 adw-gtk3
 adwaita-icon-theme
 alacritty
+alass
 anki-bin
 arandr
 atool
@@ -181,7 +182,6 @@ sshfs
 stalonetray
 
 stow
-stylua
 sudo
 teams
 tesseract-data-jpn
@@ -202,6 +202,7 @@ urlview
 vi
 vidir
 vim
+visual-studio-code-bin
 vulkan-radeon
 w3m
 wget
