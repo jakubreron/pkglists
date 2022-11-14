@@ -31,7 +31,6 @@ node
 odt2txt
 rust
 stow
-stylua
 tldr
 tmux
 yarn
