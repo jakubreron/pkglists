@@ -5,6 +5,7 @@ alacritty
 alass
 anki-bin
 arandr
+aspnet-runtime
 atool
 autoconf
 automake
@@ -35,6 +36,7 @@ dnsmasq
 docx2txt
 dog
 dosfstools
+dotnet-sdk
 downgrade
 dragon-drop
 drawing
