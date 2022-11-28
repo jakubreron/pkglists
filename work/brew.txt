@@ -33,6 +33,7 @@ rust
 stow
 tldr
 tmux
+wget
 yarn
 zsh-completions
 zsh-fast-syntax-highlighting
