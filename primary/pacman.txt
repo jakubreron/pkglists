@@ -206,6 +206,7 @@ vim
 visual-studio-code-bin
 vulkan-radeon
 w3m
+webkit2gtk
 wget
 which
 whitesur-cursor-theme-git
