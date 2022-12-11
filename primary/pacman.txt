@@ -192,6 +192,7 @@ tldr
 tmux
 tor-browser
 transmission-cli
+trash-cli
 ttf-ubraille
 tumbler
 ueberzug
