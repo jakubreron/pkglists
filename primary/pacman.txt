@@ -96,6 +96,7 @@ lf
 libnotify
 libreoffice-fresh
 libtool
+libva-mesa-driver
 libxft-git
 linux
 linux-firmware
