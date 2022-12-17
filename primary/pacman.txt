@@ -147,7 +147,7 @@ paru
 patch
 perl-file-mimeinfo
 perl-image-exiftool
-picom-ibhagwan-git
+picom
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
@@ -182,7 +182,6 @@ shellcheck
 slock
 sshfs
 stalonetray
-
 stow
 sudo
 teams
