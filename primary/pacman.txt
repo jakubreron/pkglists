@@ -113,6 +113,7 @@ mediainfo
 meld
 mkvtoolnix-gui
 mlocate
+mono
 mpc
 mpd
 mpv
