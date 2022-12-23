@@ -5,7 +5,6 @@ alacritty
 alass
 anki-bin
 arandr
-aspnet-runtime
 atool
 autoconf
 automake
@@ -36,7 +35,6 @@ dnsmasq
 docx2txt
 dog
 dosfstools
-dotnet-sdk
 downgrade
 dragon-drop
 drawing
@@ -206,7 +204,6 @@ urlview
 vi
 vidir
 vim
-visual-studio-code-bin
 vulkan-radeon
 w3m
 webkit2gtk
