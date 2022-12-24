@@ -134,7 +134,7 @@ paru-bin
 patch
 perl-file-mimeinfo
 perl-image-exiftool
-picom-ibhagwan-git
+picom
 pipewire-alsa
 pipewire-jack
 pkgconf
