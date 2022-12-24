@@ -5,7 +5,6 @@ alacritty
 alass
 anki-bin
 arandr
-aspnet-runtime
 atool
 autoconf
 automake
@@ -36,7 +35,6 @@ dnsmasq
 docx2txt
 dog
 dosfstools
-dotnet-sdk
 downgrade
 dragon-drop
 drawing
@@ -73,6 +71,7 @@ gimp
 git
 git-delta
 gitflow-avh
+gnome-boxes
 gnome-disk-utility
 gnome-sound-recorder
 gnome-system-monitor
@@ -96,6 +95,7 @@ lf
 libnotify
 libreoffice-fresh
 libtool
+libva-mesa-driver
 libxft-git
 linux
 linux-firmware
@@ -111,6 +111,7 @@ mediainfo
 meld
 mkvtoolnix-gui
 mlocate
+mono
 mpc
 mpd
 mpv
@@ -146,7 +147,7 @@ paru
 patch
 perl-file-mimeinfo
 perl-image-exiftool
-picom-ibhagwan-git
+picom
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
@@ -181,7 +182,6 @@ shellcheck
 slock
 sshfs
 stalonetray
-
 stow
 sudo
 teams
@@ -204,7 +204,6 @@ urlview
 vi
 vidir
 vim
-visual-studio-code-bin
 vulkan-radeon
 w3m
 webkit2gtk
