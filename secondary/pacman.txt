@@ -187,7 +187,6 @@ unzip
 urlview
 vidir
 vim
-vlc
 w3m
 wget
 which
