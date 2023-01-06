@@ -5,6 +5,7 @@ alacritty
 alass
 anki-bin
 arandr
+aspnet-runtime
 atool
 autoconf
 automake
@@ -35,6 +36,8 @@ dnsmasq
 docx2txt
 dog
 dosfstools
+dotnet-runtime
+dotnet-sdk
 downgrade
 dragon-drop
 drawing
@@ -99,6 +102,7 @@ libva-mesa-driver
 libxft-git
 linux
 linux-firmware
+luarocks
 lxrandr
 lynx
 m4
@@ -112,6 +116,7 @@ meld
 mkvtoolnix-gui
 mlocate
 mono
+mono-msbuild
 mpc
 mpd
 mpv
@@ -154,6 +159,7 @@ pipewire-pulse
 pkgconf
 pkgstats
 playerctl
+playerctld-systemd-unit
 poppler
 procs
 pulsemixer
@@ -170,6 +176,7 @@ redshift
 reflector
 
 
+rider
 ripgrep
 rmlint
 rsync
@@ -204,6 +211,7 @@ urlview
 vi
 vidir
 vim
+visual-studio-code-bin
 vulkan-radeon
 w3m
 webkit2gtk
