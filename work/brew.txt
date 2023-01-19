@@ -15,11 +15,14 @@ fontconfig
 fzf
 git-delta
 git-flow
+glow
 gnu-sed
 gnupg
+jq
 lazydocker
 lazygit
 lf
+libssh2
 luarocks
 mcfly
 media-info
@@ -29,6 +32,7 @@ neofetch
 neovim
 node
 odt2txt
+ripgrep
 rust
 stow
 tldr
