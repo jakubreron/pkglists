@@ -3,6 +3,7 @@ adw-gtk3
 adwaita-icon-theme
 alacritty
 alass
+android-studio
 anki-bin
 arandr
 aspnet-runtime
@@ -127,7 +128,6 @@ ncdu
 ncmpcpp
 neofetch
 neovim
-nerd-fonts-jetbrains-mono
 net-tools
 networkmanager
 newsboat
@@ -200,6 +200,7 @@ tmux
 tor-browser
 transmission-cli
 trash-cli
+ttf-jetbrains-mono-nerd
 ttf-ubraille
 tumbler
 ueberzug
