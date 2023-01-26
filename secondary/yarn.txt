@@ -1,4 +1,4 @@
-@vue/cli@4.5.15
+@vue/cli@5.0.8
 add-gitignore@1.1.1
 caniuse-cmd@1.3.1
 commitizen@4.2.4

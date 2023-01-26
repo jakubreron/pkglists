@@ -1,5 +1,4 @@
 abook
-acpi_call
 adw-gtk3
 adwaita-icon-theme
 alacritty
@@ -110,12 +109,12 @@ ncdu
 ncmpcpp
 neofetch
 neovim
-nerd-fonts-jetbrains-mono
 net-tools
 networkmanager
 newsboat
 nginx
 nmap
+nodejs
 notmuch
 noto-fonts-cjk
 noto-fonts-emoji
@@ -140,6 +139,7 @@ pkgstats
 playerctl
 poppler
 procs
+profile-cleaner
 pulsemixer
 python-pip
 python-pyqt5
@@ -167,13 +167,16 @@ stylua
 sudo
 tesseract-data-jpn
 texinfo
+threshy-gui
 ticker
 tldr
 
 
 tmux
+tor-browser
 tp_smapi
 transmission-cli
+ttf-jetbrains-mono-nerd
 ttf-joypixels
 ttf-ubraille
 tumbler
