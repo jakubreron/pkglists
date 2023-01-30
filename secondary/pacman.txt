@@ -1,4 +1,5 @@
 abook
+acpi
 adw-gtk3
 adwaita-icon-theme
 alacritty
@@ -143,8 +144,6 @@ profile-cleaner
 pulsemixer
 python-pip
 python-pyqt5
-python-pywal
-pywal-discord-git
 qt5-tools
 qt5ct
 qt6-tools
