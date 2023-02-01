@@ -167,7 +167,7 @@ sudo
 tesseract-data-jpn
 texinfo
 threshy-gui
-ticker
+ticker-git
 tldr
 
 
