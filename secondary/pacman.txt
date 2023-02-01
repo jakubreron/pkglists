@@ -166,7 +166,6 @@ stylua
 sudo
 tesseract-data-jpn
 texinfo
-threshy-gui
 ticker-git
 tldr
 
