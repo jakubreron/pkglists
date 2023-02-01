@@ -74,7 +74,6 @@ gettext
 gimp
 git
 git-delta
-gitflow-avh
 gnome-boxes
 gnome-disk-utility
 gnome-sound-recorder
@@ -85,6 +84,7 @@ grive
 groff
 grub
 gzip
+imagemagick
 img2pdf
 inotify-tools
 
@@ -152,6 +152,7 @@ paru
 patch
 perl-file-mimeinfo
 perl-image-exiftool
+
 picom
 pipewire-alsa
 pipewire-jack
@@ -159,23 +160,18 @@ pipewire-pulse
 pkgconf
 pkgstats
 playerctl
-playerctld-systemd-unit
 poppler
 procs
 pulsemixer
 python-keyring
 python-pip
-python-pywal
 python-stone
-pywal-discord-git
 qt5-tools
 qt5ct
 qt6-tools
 qt6ct
 redshift
 reflector
-
-
 rider
 ripgrep
 rmlint
@@ -245,4 +241,3 @@ zenity
 zip
 zsh
 zsh-completions
-zsh-fast-syntax-highlighting
