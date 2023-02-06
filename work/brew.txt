@@ -11,13 +11,13 @@ exa
 fd
 findutils
 fnm
-fontconfig
 fzf
 git-delta
 git-flow
 glow
 gnu-sed
 gnupg
+imagemagick
 jq
 lazydocker
 lazygit
