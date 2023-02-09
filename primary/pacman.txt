@@ -6,6 +6,7 @@ alass
 android-studio
 anki-bin
 arandr
+arkenfox-user.js
 aspnet-runtime
 atool
 autoconf
