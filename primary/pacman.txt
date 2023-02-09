@@ -29,6 +29,7 @@ cointop-bin
 colorpicker
 cronie
 ctags
+darkman
 dash
 dhcpcd
 dialog
@@ -231,6 +232,7 @@ xorg-xprop
 xorg-xrandr
 xorg-xwininfo
 xsel
+xsettingsd
 xwallpaper
 yarn
 yt-dlp
