@@ -1,1 +1,0 @@
-lemminx ltex yamlls vuels ansiblels stylelint_lsp intelephense phpactor tsserver serve_d jsonls eslint html volar dockerls cssls vimls sumneko_lua clangd tailwindcss emmet_ls angularls bashls
