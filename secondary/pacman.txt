@@ -5,6 +5,7 @@ adwaita-icon-theme
 alacritty
 anki-bin
 arandr
+arkenfox-user.js
 atool
 autoconf
 automake
@@ -26,6 +27,7 @@ cointop-bin
 colorpicker
 cronie
 ctags
+darkman
 dhcpcd
 dialog
 discord
@@ -165,6 +167,7 @@ stow
 stylua
 sudo
 tesseract-data-jpn
+testdisk
 texinfo
 ticker-git
 tldr
@@ -206,6 +209,7 @@ xorg-xkill
 xorg-xprop
 xorg-xwininfo
 xsel
+xsettingsd
 xwallpaper
 yarn
 yt-dlp
