@@ -191,6 +191,7 @@ stow
 sudo
 teams
 tesseract-data-jpn
+testdisk
 texinfo
 ticker
 tldr
