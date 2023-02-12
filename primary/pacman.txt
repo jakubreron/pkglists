@@ -7,7 +7,6 @@ android-studio
 anki-bin
 arandr
 arkenfox-user.js
-aspnet-runtime
 atool
 autoconf
 automake
@@ -39,8 +38,6 @@ dnsmasq
 docx2txt
 dog
 dosfstools
-dotnet-runtime
-dotnet-sdk
 downgrade
 dragon-drop
 drawing
@@ -211,7 +208,6 @@ urlview
 vi
 vidir
 vim
-visual-studio-code-bin
 vulkan-radeon
 w3m
 webkit2gtk
