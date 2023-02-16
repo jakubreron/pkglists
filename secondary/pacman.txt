@@ -212,6 +212,7 @@ xsel
 xsettingsd
 xwallpaper
 yarn
+yay-bin
 yt-dlp
 zam-plugins
 zathura
