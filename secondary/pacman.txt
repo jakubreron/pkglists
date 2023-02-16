@@ -75,6 +75,7 @@ grive
 groff
 grub
 htop
+hyprland-bin
 inotify-tools
 jq
 kdeconnect
@@ -159,6 +160,7 @@ rsync
 rust
 sassc
 screenkey
+sddm
 seahorse
 shellcheck
 slock
