@@ -56,6 +56,7 @@ ffmpeg
 ffmpegthumbnailer
 file-roller
 firefox
+firefox-developer-edition
 flex
 fnm-bin
 fragments
@@ -80,6 +81,7 @@ inotify-tools
 jq
 kdeconnect
 keepassxc
+kitty
 kvantum
 kvantum-theme-libadwaita-git
 lazydocker-bin
@@ -91,6 +93,7 @@ libtool
 libxft-bgra
 linux
 linux-firmware
+llvm
 luacheck
 lxrandr
 lynx
@@ -141,6 +144,7 @@ pipewire-jack
 pkgconf
 pkgstats
 playerctl
+polkit-kde-agent
 poppler
 procs
 profile-cleaner
@@ -150,6 +154,7 @@ python-pyqt5
 qt5-tools
 qt5ct
 qt6-tools
+qt6-wayland
 qt6ct
 redis
 redshift
@@ -168,6 +173,7 @@ sshfs
 stow
 stylua
 sudo
+swaylock
 tesseract-data-jpn
 testdisk
 texinfo
@@ -195,10 +201,12 @@ wget
 which
 whitesur-cursor-theme-git
 whois
+wlroots
 words
 xcape
 xclip
 xcompmgr
+xdg-desktop-portal-hyprland-git
 xdotool
 
 xorg-server
@@ -214,6 +222,7 @@ xsel
 xsettingsd
 xwallpaper
 yarn
+yay-bin
 yt-dlp
 zam-plugins
 zathura
