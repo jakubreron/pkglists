@@ -146,6 +146,7 @@ profile-cleaner
 pulsemixer
 python-pip
 python-pyqt5
+qemu-full
 qt5-tools
 qt5ct
 qt6-tools
@@ -212,7 +213,6 @@ xsel
 xsettingsd
 xwallpaper
 yarn
-yay-bin
 yt-dlp
 zam-plugins
 zathura
