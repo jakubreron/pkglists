@@ -10,6 +10,7 @@ atool
 autoconf
 automake
 base
+base-devel
 bat
 bc
 betterdiscord-installer
@@ -31,6 +32,7 @@ darkman
 dhcpcd
 dialog
 discord
+dmidecode
 dnsmasq
 docx2txt
 dog
@@ -146,6 +148,7 @@ profile-cleaner
 pulsemixer
 python-pip
 python-pyqt5
+python-setuptools
 qemu-full
 qt5-tools
 qt5ct
@@ -172,8 +175,6 @@ testdisk
 texinfo
 ticker-git
 tldr
-
-
 tmux
 tor-browser
 tp_smapi
