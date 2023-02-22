@@ -86,7 +86,7 @@ gzip
 imagemagick
 img2pdf
 inotify-tools
-
+intel-ucode
 jq
 kdeconnect
 keepassxc
@@ -151,7 +151,7 @@ paru
 patch
 perl-file-mimeinfo
 perl-image-exiftool
-
+php
 picom
 pipewire-alsa
 pipewire-jack
