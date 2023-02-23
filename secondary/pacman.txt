@@ -166,6 +166,7 @@ screenkey
 seahorse
 shellcheck
 slock
+speedtest-cli
 sshfs
 stow
 stylua
