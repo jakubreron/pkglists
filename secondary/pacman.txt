@@ -149,7 +149,7 @@ pulsemixer
 python-pip
 python-pyqt5
 python-setuptools
-qemu-full
+
 qt5-tools
 qt5ct
 qt6-tools
