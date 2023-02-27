@@ -25,7 +25,6 @@ calcurse
 catdoc
 chromium
 cointop-bin
-colord
 colorpicker
 cronie
 ctags
@@ -59,7 +58,6 @@ ffmpeg
 ffmpegthumbnailer
 file-roller
 firefox
-firefox-developer-edition
 flex
 fnm-bin
 fragments
@@ -79,9 +77,6 @@ grive
 groff
 grub
 htop
-hyprland
-hyprpaper-git
-hyprpicker-git
 inotify-tools
 jq
 kdeconnect
@@ -148,7 +143,6 @@ pipewire-jack
 pkgconf
 pkgstats
 playerctl
-polkit-kde-agent
 poppler
 procs
 profile-cleaner
@@ -160,14 +154,11 @@ python-setuptools
 qt5-tools
 qt5ct
 qt6-tools
-qt6-wayland
 qt6ct
 redis
 redshift
 reflector
 ripgrep
-rofi
-rofi-emoji
 rsync
 rust
 screenkey
@@ -179,7 +170,6 @@ sshfs
 stow
 stylua
 sudo
-swaylock-effects
 tesseract-data-jpn
 testdisk
 texinfo
@@ -201,17 +191,11 @@ urlview
 vidir
 vim
 w3m
-waybar-hyprland-git
-wf-recorder
 wget
 which
 whitesur-cursor-theme-git
 whois
-wl-clipboard
-wlogout
 words
-wtype
-
 
 
 
