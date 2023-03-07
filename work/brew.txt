@@ -22,7 +22,7 @@ jq
 lazydocker
 lazygit
 lf
-libssh2
+luacheck
 luarocks
 mcfly
 media-info
