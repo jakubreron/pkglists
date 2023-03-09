@@ -187,6 +187,7 @@ unclutter
 unrar
 unzip
 urlview
+ventoy-bin
 vidir
 vim
 w3m
@@ -218,5 +219,6 @@ zathura
 zathura-pdf-mupdf
 zenity
 zip
+zoom
 zsh
 zsh-completions
