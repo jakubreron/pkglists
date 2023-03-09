@@ -23,7 +23,6 @@ breeze
 btop
 calcurse
 catdoc
-cdrtools
 chromium
 cointop-bin
 colorpicker
@@ -48,7 +47,6 @@ easyeffects
 efibootmgr
 entr
 epub-thumbnailer-git
-etcher-bin
 exa
 exfat-utils
 fakeroot
@@ -91,7 +89,6 @@ inotify-tools
 jmtpfs
 jq
 kdeconnect
-kdenlive
 keepassxc
 kvantum
 kvantum-theme-libadwaita-git
@@ -219,7 +216,6 @@ wget
 which
 whitesur-cursor-theme-git
 whois
-wimlib
 words
 
 
@@ -244,6 +240,5 @@ zathura
 zathura-pdf-mupdf
 zenity
 zip
-zoom
 zsh
 zsh-completions
