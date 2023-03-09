@@ -3,7 +3,6 @@ adw-gtk3
 adwaita-icon-theme
 alacritty
 alass
-android-studio
 anki-bin
 arandr
 arkenfox-user.js
@@ -24,6 +23,7 @@ breeze
 btop
 calcurse
 catdoc
+cdrtools
 chromium
 cointop-bin
 colorpicker
@@ -48,6 +48,7 @@ easyeffects
 efibootmgr
 entr
 epub-thumbnailer-git
+etcher-bin
 exa
 exfat-utils
 fakeroot
@@ -81,13 +82,16 @@ grep
 grive
 groff
 grub
+gvfs-mtp
 gzip
 imagemagick
 img2pdf
 inotify-tools
 
+jmtpfs
 jq
 kdeconnect
+kdenlive
 keepassxc
 kvantum
 kvantum-theme-libadwaita-git
@@ -121,6 +125,7 @@ mpc
 mpd
 mpv
 mpv-mpvacious
+mtpfs
 mutt-wizard
 nautilus
 ncdu
@@ -187,7 +192,6 @@ sshfs
 stalonetray
 stow
 sudo
-teams
 tesseract-data-jpn
 testdisk
 texinfo
@@ -202,7 +206,6 @@ ttf-ubraille
 tumbler
 ueberzug
 unclutter
-universal-android-debloater-bin
 unrar
 unzip
 urlview
@@ -216,6 +219,7 @@ wget
 which
 whitesur-cursor-theme-git
 whois
+wimlib
 words
 
 
@@ -240,5 +244,6 @@ zathura
 zathura-pdf-mupdf
 zenity
 zip
+zoom
 zsh
 zsh-completions
