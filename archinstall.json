@@ -1,0 +1,99 @@
+{
+    "HSM": null,
+    "__separator__": null,
+    "additional-repositories": [
+        "multilib"
+    ],
+    "archinstall-language": "English",
+    "audio": "pipewire",
+    "bootloader": "grub-install",
+    "config_version": "2.5.1",
+    "debug": false,
+    "harddrives": [
+        "/dev/sda"
+    ],
+    "hostname": "archlinux-thinkpad",
+    "kernels": [
+        "linux"
+    ],
+    "keyboard-layout": "pl",
+    "mirror-region": {
+        "Poland": {
+            "http://arch.midov.pl/arch/$repo/os/$arch": true,
+            "http://arch.sakamoto.pl/$repo/os/$arch": true,
+            "http://ftp.icm.edu.pl/pub/Linux/dist/archlinux/$repo/os/$arch": true,
+            "http://ftp.psnc.pl/linux/archlinux/$repo/os/$arch": true,
+            "http://ftp.vectranet.pl/archlinux/$repo/os/$arch": true,
+            "http://mirror.juniorjpdj.pl/archlinux/$repo/os/$arch": true,
+            "http://mirror.onet.pl/pub/mirrors/archlinux/$repo/os/$arch": true,
+            "http://repo.skni.umcs.pl/archlinux/$repo/os/$arch": true,
+            "https://arch.midov.pl/arch/$repo/os/$arch": true,
+            "https://arch.sakamoto.pl/$repo/os/$arch": true,
+            "https://ftp.icm.edu.pl/pub/Linux/dist/archlinux/$repo/os/$arch": true,
+            "https://ftp.psnc.pl/linux/archlinux/$repo/os/$arch": true,
+            "https://mirror.juniorjpdj.pl/archlinux/$repo/os/$arch": true,
+            "https://repo.skni.umcs.pl/archlinux/$repo/os/$arch": true
+        }
+    },
+    "nic": {
+        "dhcp": true,
+        "dns": null,
+        "gateway": null,
+        "iface": null,
+        "ip": null,
+        "type": "nm"
+    },
+    "no_pkg_lookups": false,
+    "ntp": true,
+    "offline": false,
+    "packages": [
+        "neovim",
+        "git",
+        "rust",
+        "vim",
+        "vi"
+    ],
+    "parallel downloads": 0,
+    "profile": {
+        "path": "/usr/lib/python3.10/site-packages/archinstall/profiles/minimal.py"
+    },
+    "save_config": null,
+    "script": "guided",
+    "silent": false,
+    "swap": true,
+    "sys-encoding": "UTF-8",
+    "sys-language": "en_US",
+    "timezone": "Poland",
+    "version": "2.5.1"
+}
+{
+    "/dev/sda": {
+        "partitions": [
+            {
+                "boot": true,
+                "encrypted": false,
+                "filesystem": {
+                    "format": "fat32"
+                },
+                "mountpoint": "/boot",
+                "size": "203MiB",
+                "start": "3MiB",
+                "type": "primary",
+                "wipe": true
+            },
+            {
+                "encrypted": false,
+                "filesystem": {
+                    "format": "ext4",
+                    "mount_options": []
+                },
+                "mountpoint": "/",
+                "size": "100%",
+                "start": "206MiB",
+                "type": "primary",
+                "wipe": true
+            }
+        ],
+        "wipe": true
+    }
+}
