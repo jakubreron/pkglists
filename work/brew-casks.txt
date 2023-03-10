@@ -1,0 +1,6 @@
+alacritty
+amethyst
+bluesnooze
+firefox
+karabiner-elements
+keepassxc

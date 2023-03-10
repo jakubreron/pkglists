@@ -12,6 +12,7 @@ fd
 findutils
 fnm
 fzf
+git-crypt
 git-delta
 git-flow
 glow
@@ -26,12 +27,14 @@ luacheck
 luarocks
 mcfly
 media-info
+mkcert
 moreutils
 ncdu
 neofetch
 neovim
 node
 odt2txt
+pyenv
 ripgrep
 rust
 stow
