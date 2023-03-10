@@ -89,7 +89,7 @@ libnotify
 libreoffice-fresh
 libtool
 libva-intel-driver
-libxft-bgra
+libxft
 linux
 linux-firmware
 luacheck
