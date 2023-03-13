@@ -6,7 +6,7 @@ commitizen@4.3.0
 create-vite@2.9.5
 git-cz@4.9.0
 neovim@4.10.1
-nodemon@2.0.20
+nodemon@2.0.21
 npkill@0.8.3
 stylelint@14.16.1
 tree-sitter-cli@0.20.7
