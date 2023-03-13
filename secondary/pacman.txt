@@ -15,6 +15,7 @@ betterdiscord-installer
 bind
 blueman
 bluez-utils
+bmon
 breeze
 btop
 calcurse
@@ -150,6 +151,8 @@ redis
 redshift
 reflector
 ripgrep
+rofi
+rofi-emoji
 rsync
 rust
 screenkey
@@ -163,7 +166,7 @@ stylua
 tesseract-data-jpn
 testdisk
 thermald
-ticker-git
+ticker
 tldr
 tmux
 tor-browser
