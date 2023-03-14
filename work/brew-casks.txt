@@ -4,3 +4,6 @@ bluesnooze
 firefox
 karabiner-elements
 keepassxc
+maccy
+tunnelblick
+visual-studio-code
