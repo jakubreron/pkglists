@@ -153,7 +153,7 @@ paru
 patch
 perl-file-mimeinfo
 perl-image-exiftool
-
+php
 picom
 pipewire-alsa
 pipewire-jack
@@ -177,6 +177,7 @@ reflector
 rider
 ripgrep
 rmlint
+rofi
 rsync
 rust
 screen
