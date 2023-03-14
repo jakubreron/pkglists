@@ -110,7 +110,6 @@ neofetch
 neovim
 net-tools
 networkmanager
-newsboat
 nginx
 nmap
 nodejs
@@ -195,7 +194,7 @@ words
 xcape
 xclip
 xdotool
-xf86-video-
+xf86-video-amdgpu
 xf86-video-ati
 xf86-video-intel
 xf86-video-nouveau
