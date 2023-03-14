@@ -1,5 +1,6 @@
 achannarasappa/tap/ticker
 atool
+azure/functions/azure-functions-core-tools@4
 bat
 btop
 cointop
@@ -35,6 +36,7 @@ neofetch
 neovim
 nginx
 node
+nss
 odt2txt
 pyenv
 ripgrep
