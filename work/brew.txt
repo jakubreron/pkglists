@@ -25,6 +25,7 @@ lazygit
 lf
 luacheck
 luarocks
+maven
 mcfly
 media-info
 mkcert
@@ -32,6 +33,7 @@ moreutils
 ncdu
 neofetch
 neovim
+nginx
 node
 odt2txt
 pyenv
