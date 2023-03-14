@@ -178,6 +178,7 @@ rider
 ripgrep
 rmlint
 rofi
+rofi-emoji
 rsync
 rust
 screen
