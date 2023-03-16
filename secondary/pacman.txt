@@ -151,6 +151,7 @@ redshift
 reflector
 ripgrep
 rofi
+rofi-bluetooth-git
 rofi-emoji
 rsync
 rust
