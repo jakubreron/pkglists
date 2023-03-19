@@ -171,6 +171,7 @@ tldr
 tmux
 tor-browser
 tp_smapi
+translate-shell
 transmission-cli
 ttf-jetbrains-mono-nerd
 ttf-joypixels
