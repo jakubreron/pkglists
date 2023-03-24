@@ -21,7 +21,6 @@ gnu-sed
 gnupg
 imagemagick
 jq
-koekeishiya/formulae/skhd
 lazydocker
 lazygit
 lf

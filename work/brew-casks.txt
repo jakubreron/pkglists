@@ -1,5 +1,6 @@
 alacritty
 amethyst
+anki
 bluesnooze
 firefox
 font-jetbrains-mono-nerd-font
