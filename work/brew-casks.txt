@@ -2,6 +2,7 @@ alacritty
 amethyst
 anki
 bluesnooze
+chromium
 firefox
 font-jetbrains-mono-nerd-font
 karabiner-elements
