@@ -19,6 +19,7 @@ bison
 blanket
 blueman
 bluez-utils
+bmon
 breeze
 btop
 calcurse
@@ -62,7 +63,6 @@ findutils
 firefox-developer-edition
 flex
 fnm-bin
-fragments
 freerdp
 fzf
 gawk
@@ -174,11 +174,11 @@ qt6-tools
 qt6ct
 redshift
 reflector
-rider
 ripgrep
 rmlint
 rofi
 rofi-bluetooth-git
+rofi-calc
 rofi-emoji
 rsync
 rust
@@ -201,6 +201,7 @@ tmux
 tor-browser
 transmission-cli
 trash-cli
+tremc-git
 ttf-jetbrains-mono-nerd
 ttf-ubraille
 tumbler
