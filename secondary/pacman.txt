@@ -152,6 +152,7 @@ reflector
 ripgrep
 rofi
 rofi-bluetooth-git
+rofi-calc
 rofi-emoji
 rsync
 rust
