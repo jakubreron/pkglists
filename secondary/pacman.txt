@@ -75,6 +75,7 @@ intel-ucode
 jq
 kdeconnect
 keepassxc
+kitty
 kvantum
 kvantum-theme-libadwaita-git
 laptop-detect
@@ -97,6 +98,8 @@ mcfly
 mda.lv2
 mediainfo
 meld
+mesa
+mesa-utils
 mlocate
 mpc
 mpd
@@ -197,6 +200,7 @@ wireplumber
 words
 xcape
 xclip
+xcompmgr
 xdotool
 xf86-video-amdgpu
 xf86-video-ati
