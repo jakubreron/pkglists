@@ -70,7 +70,6 @@ grub
 gst-plugin-pipewire
 htop
 inotify-tools
-intel-compute-runtime
 intel-media-driver
 intel-ucode
 jq
@@ -83,8 +82,6 @@ laptop-detect
 lazydocker-bin
 lazygit
 lf
-lib32-mesa
-lib32-ocl-icd
 libnotify
 libpulse
 libreoffice-fresh
@@ -203,7 +200,6 @@ wireplumber
 words
 xcape
 xclip
-xcompmgr
 xdotool
 xf86-video-amdgpu
 xf86-video-ati
