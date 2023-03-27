@@ -70,7 +70,6 @@ grub
 gst-plugin-pipewire
 htop
 inotify-tools
-intel-media-driver
 intel-ucode
 jq
 kdeconnect
@@ -87,6 +86,7 @@ libpulse
 libreoffice-fresh
 libva-intel-driver
 libva-mesa-driver
+libva-utils
 linux
 linux-firmware
 luacheck
