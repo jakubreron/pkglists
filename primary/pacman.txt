@@ -182,6 +182,7 @@ rofi-calc
 rofi-emoji
 rsync
 rust
+rust-analyzer
 screen
 screenkey
 seahorse
