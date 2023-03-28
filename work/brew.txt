@@ -2,6 +2,7 @@ achannarasappa/tap/ticker
 atool
 azure/functions/azure-functions-core-tools@4
 bat
+bmon
 btop
 cointop
 docx2txt
