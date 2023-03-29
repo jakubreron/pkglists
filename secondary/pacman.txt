@@ -163,6 +163,7 @@ rofi-calc
 rofi-emoji
 rsync
 rust
+rust-analyzer
 screenkey
 seahorse
 shellcheck
@@ -194,6 +195,7 @@ urlview
 vi
 vidir
 vim
+vscodium-bin
 vulkan-intel
 vulkan-radeon
 w3m
