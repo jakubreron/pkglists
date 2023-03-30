@@ -190,7 +190,6 @@ sed
 shellcheck
 slock
 sshfs
-stalonetray
 stow
 sudo
 tesseract-data-jpn
