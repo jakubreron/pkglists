@@ -13,6 +13,7 @@ bat
 bc
 betterdiscord-installer
 bind
+blanket
 blueman
 bluez-utils
 bmon
@@ -64,18 +65,19 @@ gnome-disk-utility
 gnome-keyring
 gnome-sound-recorder
 gnome-system-monitor
+gnu-free-fonts
 go
 grive
 grub
 gst-plugin-pipewire
-htop
+imagemagick
 inotify-tools
 intel-compute-runtime
 intel-ucode
+jmtpfs
 jq
 kdeconnect
 keepassxc
-kitty
 kvantum
 kvantum-theme-libadwaita-git
 laptop-detect
@@ -94,6 +96,7 @@ libva-utils
 linux
 linux-firmware
 luacheck
+luarocks
 lxrandr
 lynx
 maim
@@ -121,8 +124,10 @@ nginx
 nmap
 nodejs
 notmuch
+noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
+noto-fonts-extra
 npm
 ntfs-3g
 ntp
@@ -153,7 +158,6 @@ qt5-tools
 qt5ct
 qt6-tools
 qt6ct
-redis
 redshift
 reflector
 ripgrep
@@ -171,7 +175,6 @@ slock
 speedtest-cli
 sshfs
 stow
-stylua
 tesseract-data-jpn
 testdisk
 thermald
@@ -184,7 +187,6 @@ translate-shell
 transmission-cli
 tremc-git
 ttf-jetbrains-mono-nerd
-ttf-joypixels
 ttf-ubraille
 tumbler
 ueberzug
