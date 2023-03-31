@@ -43,6 +43,7 @@ odt2txt
 pyenv
 ripgrep
 rust
+rust-analyzer
 stow
 tldr
 tmux
