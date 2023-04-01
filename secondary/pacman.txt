@@ -63,10 +63,12 @@ git
 git-delta
 gnome-disk-utility
 gnome-keyring
+gnome-multi-writer
 gnome-sound-recorder
 gnome-system-monitor
 gnu-free-fonts
 go
+gparted
 grive
 grub
 gst-plugin-pipewire
@@ -180,6 +182,7 @@ testdisk
 thermald
 ticker
 tldr
+tlp
 tmux
 tor-browser
 tp_smapi
