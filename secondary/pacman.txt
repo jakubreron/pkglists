@@ -200,7 +200,6 @@ urlview
 vi
 vidir
 vim
-vscodium-bin
 vulkan-intel
 vulkan-radeon
 w3m
