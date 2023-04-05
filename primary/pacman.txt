@@ -68,11 +68,13 @@ fzf
 gawk
 gazou-git
 gcc
+geteltorito
 gettext
 gimp
 git
 git-delta
 gnome-disk-utility
+gnome-multi-writer
 gnome-sound-recorder
 gnome-system-monitor
 go
@@ -164,6 +166,7 @@ playerctl
 poppler
 procs
 pulsemixer
+pv
 python-keyring
 python-pip
 python-stone
