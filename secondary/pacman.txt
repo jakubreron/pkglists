@@ -42,6 +42,7 @@ dunst
 dust
 easyeffects
 efibootmgr
+egpu-switcher-bin
 entr
 epub-thumbnailer-git
 exa
@@ -211,6 +212,7 @@ words
 xcape
 xclip
 xdotool
+xf86-video-amdgpu
 xf86-video-intel
 xorg-server
 xorg-xbacklight
