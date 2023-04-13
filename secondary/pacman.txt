@@ -120,7 +120,7 @@ nautilus
 ncdu
 ncmpcpp
 neofetch
-neovim-git
+neovim
 net-tools
 networkmanager
 nginx
