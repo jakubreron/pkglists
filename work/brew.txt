@@ -48,6 +48,7 @@ stow
 tldr
 tmux
 wget
+xclip
 yarn
 zsh-completions
 zsh-fast-syntax-highlighting
