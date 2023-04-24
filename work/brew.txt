@@ -33,6 +33,7 @@ mcfly
 media-info
 mkcert
 moreutils
+mtr
 ncdu
 neofetch
 neovim
