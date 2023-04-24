@@ -115,6 +115,7 @@ mpc
 mpd
 mpv
 mpv-mpvacious
+mtr
 mutt-wizard
 nautilus
 ncdu
