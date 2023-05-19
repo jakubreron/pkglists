@@ -1,5 +1,6 @@
 achannarasappa/tap/ticker
 atool
+azure-cli
 azure/functions/azure-functions-core-tools@4
 bat
 bmon
