@@ -1,4 +1,5 @@
 @antfu/ni@0.21.3
+@vue/cli@5.0.8
 neovim@4.10.1
 nodemon@2.0.22
 taze@0.10.1

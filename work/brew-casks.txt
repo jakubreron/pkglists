@@ -3,6 +3,7 @@ amethyst
 anki
 bluesnooze
 chromium
+eqmac
 firefox
 font-jetbrains-mono-nerd-font
 karabiner-elements
