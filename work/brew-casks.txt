@@ -9,6 +9,7 @@ font-jetbrains-mono-nerd-font
 karabiner-elements
 keepassxc
 maccy
+postman
 raycast
 scroll-reverser
 tunnelblick
