@@ -182,7 +182,7 @@ stow
 tesseract-data-jpn
 testdisk
 thermald
-ticker
+ticker-bin
 tldr
 tlp
 tmux
