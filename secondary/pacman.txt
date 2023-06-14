@@ -58,7 +58,6 @@ firefox-developer-edition
 fnm-bin
 freerdp
 fzf
-gazou-git
 gimp
 git
 git-delta
@@ -179,6 +178,7 @@ slock
 speedtest-cli
 sshfs
 stow
+tachidesk
 tesseract-data-jpn
 testdisk
 thermald
