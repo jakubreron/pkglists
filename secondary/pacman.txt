@@ -42,7 +42,6 @@ dunst
 dust
 easyeffects
 efibootmgr
-egpu-switcher-bin
 entr
 epub-thumbnailer-git
 exa
