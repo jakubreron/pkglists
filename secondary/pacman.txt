@@ -199,7 +199,6 @@ unrar
 unzip
 urlview
 vi
-vidir
 vim
 vulkan-intel
 vulkan-radeon
