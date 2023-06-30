@@ -57,6 +57,7 @@ firefox-developer-edition
 fnm-bin
 freerdp
 fzf
+gcc-ada
 gimp
 git
 git-delta
