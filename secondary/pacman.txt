@@ -204,7 +204,6 @@ vim
 vulkan-intel
 vulkan-radeon
 w3m
-weasis-bin
 wget
 whitesur-cursor-theme-git
 whois
