@@ -15,3 +15,4 @@ raycast
 scroll-reverser
 tunnelblick
 visual-studio-code
+zoom
