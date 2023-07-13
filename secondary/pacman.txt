@@ -54,6 +54,7 @@ ffmpeg
 ffmpegthumbnailer
 file-roller
 firefox-developer-edition
+flashrom
 fnm-bin
 freerdp
 fzf
@@ -131,7 +132,6 @@ noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
-npm
 ntfs-3g
 ntp
 odt2txt
@@ -175,6 +175,7 @@ screenkey
 seahorse
 shellcheck
 slock
+speech-dispatcher
 speedtest-cli
 sshfs
 stow
@@ -194,7 +195,7 @@ tremc-git
 ttf-jetbrains-mono-nerd
 ttf-ubraille
 tumbler
-ueberzug
+ueberzugpp
 unclutter
 unrar
 unzip
