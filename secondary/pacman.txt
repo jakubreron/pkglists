@@ -104,6 +104,7 @@ lxrandr
 lynx
 maim
 man-db
+marker
 mcfly
 mda.lv2
 mediainfo
