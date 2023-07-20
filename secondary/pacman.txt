@@ -152,6 +152,7 @@ pipewire-pulse
 pkgstats
 playerctl
 poppler
+postman-bin
 procs
 profile-cleaner
 pulsemixer
@@ -181,7 +182,6 @@ speedtest-cli
 sshfs
 stow
 tachidesk
-tesseract-data-jpn
 testdisk
 thermald
 ticker-bin
