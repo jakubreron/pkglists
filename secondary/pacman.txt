@@ -181,7 +181,6 @@ speech-dispatcher
 speedtest-cli
 sshfs
 stow
-swaylock
 tachidesk
 testdisk
 thermald
@@ -207,7 +206,6 @@ vim
 vulkan-intel
 vulkan-radeon
 w3m
-waybar
 wget
 whitesur-cursor-theme-git
 whois
