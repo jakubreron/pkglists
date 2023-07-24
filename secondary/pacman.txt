@@ -182,6 +182,9 @@ speedtest-cli
 sshfs
 stow
 tachidesk
+tesseract
+tesseract-data-jpn
+tesseract-data-osd
 testdisk
 thermald
 ticker-bin
