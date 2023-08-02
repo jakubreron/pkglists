@@ -216,6 +216,7 @@ words
 xcape
 xclip
 xdotool
+xf86-video-intel
 xorg-server
 xorg-xbacklight
 xorg-xdpyinfo
