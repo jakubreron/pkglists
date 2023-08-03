@@ -1,5 +1,6 @@
 abook
 acpi
+acpilight
 adw-gtk3
 adwaita-icon-theme
 alacritty
@@ -27,6 +28,7 @@ colorpicker
 cronie
 ctags
 darkman
+ddcutil
 dhcpcd
 dialog
 discord
@@ -59,6 +61,7 @@ fnm-bin
 freerdp
 fzf
 gcc-ada
+geekbench
 gimp
 git
 git-delta
@@ -96,6 +99,7 @@ libreoffice-fresh
 libva-intel-driver
 libva-mesa-driver
 libva-utils
+light
 linux
 linux-firmware
 luacheck
@@ -216,9 +220,7 @@ words
 xcape
 xclip
 xdotool
-xf86-video-intel
 xorg-server
-xorg-xbacklight
 xorg-xdpyinfo
 xorg-xhost
 xorg-xinit
