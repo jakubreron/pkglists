@@ -55,6 +55,7 @@ fd
 ffmpeg
 ffmpegthumbnailer
 file-roller
+filezilla
 firefox-developer-edition
 flashrom
 fnm-bin
@@ -210,7 +211,6 @@ urlview
 vi
 vim
 vulkan-intel
-vulkan-radeon
 w3m
 wget
 whitesur-cursor-theme-git
