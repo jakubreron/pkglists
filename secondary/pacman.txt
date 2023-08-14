@@ -21,6 +21,7 @@ bmon
 breeze
 btop
 calcurse
+calf
 catdoc
 chromium
 cointop-bin
@@ -61,6 +62,7 @@ flashrom
 fnm-bin
 freerdp
 fzf
+gazou-git
 gcc-ada
 geekbench
 gimp
@@ -103,6 +105,7 @@ libva-utils
 light
 linux
 linux-firmware
+lsp-plugins
 luacheck
 luarocks
 lxrandr
@@ -185,6 +188,7 @@ slock
 speech-dispatcher
 speedtest-cli
 sshfs
+stalonetray
 stow
 tachidesk
 tesseract
