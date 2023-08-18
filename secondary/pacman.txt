@@ -59,7 +59,7 @@ file-roller
 filezilla
 firefox-developer-edition
 flashrom
-fnm-bin
+fnm
 freerdp
 fzf
 gazou-git
