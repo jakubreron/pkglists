@@ -79,6 +79,8 @@ gparted
 grive
 grub
 gst-plugin-pipewire
+hyprland
+hyprpaper
 imagemagick
 inotify-tools
 intel-compute-runtime
@@ -159,6 +161,7 @@ pipewire-jack
 pipewire-pulse
 pkgstats
 playerctl
+polkit-kde-agent
 poppler
 postman-bin
 procs
@@ -216,13 +219,16 @@ vi
 vim
 vulkan-intel
 w3m
+waybar
 wget
 whitesur-cursor-theme-git
 whois
 wireplumber
+wl-clipboard
 words
 xcape
 xclip
+xdg-desktop-portal-hyprland
 xdotool
 xorg-server
 xorg-xdpyinfo
