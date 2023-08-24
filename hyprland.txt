@@ -1,0 +1,6 @@
+hyprland
+hyprpaper
+polkit-kde-agent
+waybar
+wl-clipboard
+xdg-desktop-portal-hyprland
