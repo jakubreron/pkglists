@@ -1,6 +1,7 @@
 hyprland
 hyprpaper
-polkit-kde-agent
-waybar
+polkit-gnome
+waybar-hyprland
 wl-clipboard
 xdg-desktop-portal-hyprland
+swaylock
