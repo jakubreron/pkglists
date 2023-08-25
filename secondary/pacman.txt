@@ -32,7 +32,6 @@ darkman
 ddcutil
 dhcpcd
 dialog
-discord
 dnsmasq
 docx2txt
 dog
@@ -62,6 +61,7 @@ flashrom
 fnm
 freerdp
 fzf
+gammastep
 gazou-git
 gcc-ada
 geekbench
@@ -79,7 +79,7 @@ gparted
 grive
 grub
 gst-plugin-pipewire
-hyprland
+hyprland-git
 hyprpaper
 imagemagick
 inotify-tools
@@ -143,6 +143,7 @@ noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
+nsxiv
 ntfs-3g
 ntp
 odt2txt
@@ -174,7 +175,6 @@ qt5-tools
 qt5ct
 qt6-tools
 qt6ct
-redshift
 reflector
 ripgrep
 rofi-bluetooth-git
@@ -221,11 +221,13 @@ vim
 vulkan-intel
 w3m
 waybar-hyprland-git
+webcord-bin
 wget
 whitesur-cursor-theme-git
 whois
 wireplumber
 wl-clipboard
+wlr-randr
 words
 xcape
 xclip
