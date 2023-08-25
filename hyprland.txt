@@ -9,3 +9,5 @@ qt5-wayland
 qt6-wayland
 xwaylandvideobridge-cursor-mode-2-git
 rofi-lbonn-wayland-git
+gammastep
+wlr-randr
