@@ -177,10 +177,10 @@ qt6ct
 redshift
 reflector
 ripgrep
-rofi
 rofi-bluetooth-git
 rofi-calc
 rofi-emoji
+rofi-lbonn-wayland-git
 rsync
 rust
 rust-analyzer
@@ -193,6 +193,7 @@ speedtest-cli
 sshfs
 stalonetray
 stow
+swaylock
 tachidesk
 tesseract
 tesseract-data-jpn
@@ -219,7 +220,7 @@ vi
 vim
 vulkan-intel
 w3m
-waybar
+waybar-hyprland-git
 wget
 whitesur-cursor-theme-git
 whois
@@ -240,6 +241,7 @@ xorg-xwininfo
 xsel
 xsettingsd
 xwallpaper
+xwaylandvideobridge-cursor-mode-2-git
 yarn
 yt-dlp
 zam-plugins

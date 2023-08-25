@@ -1,7 +1,11 @@
 hyprland
 hyprpaper
-polkit-gnome
+polkit-kde-agent
 waybar-hyprland
 wl-clipboard
 xdg-desktop-portal-hyprland
 swaylock
+qt5-wayland
+qt6-wayland
+xwaylandvideobridge-cursor-mode-2-git
+rofi-lbonn-wayland-git
