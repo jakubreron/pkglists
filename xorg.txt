@@ -1,0 +1,13 @@
+xcape
+xclip
+xdotool
+xorg-server
+xorg-xdpyinfo
+xorg-xhost
+xorg-xinit
+xorg-xinput
+xorg-xkill
+xorg-xwininfo
+xsel
+xsettingsd
+xwallpaper
