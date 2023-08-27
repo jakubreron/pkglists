@@ -12,3 +12,4 @@ xsel
 xsettingsd
 xwallpaper
 maim
+picom

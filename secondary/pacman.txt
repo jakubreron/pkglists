@@ -74,7 +74,6 @@ git-delta
 gnome-disk-utility
 gnome-keyring
 gnome-multi-writer
-gnome-settings-daemon
 gnome-sound-recorder
 gnome-system-monitor
 gnu-free-fonts
@@ -160,7 +159,6 @@ pamixer
 paru-bin
 perl-file-mimeinfo
 perl-image-exiftool
-picom
 pipewire
 pipewire-alsa
 pipewire-jack
@@ -235,20 +233,10 @@ wireplumber
 wl-clipboard
 wlr-randr
 words
-xcape
-xclip
 xdg-desktop-portal-hyprland
 xdotool
 xorg-server
-xorg-xdpyinfo
-xorg-xhost
-xorg-xinit
 xorg-xinput
-xorg-xkill
-xorg-xwininfo
-xsel
-xsettingsd
-xwallpaper
 xwaylandvideobridge-cursor-mode-2-git
 yarn
 yt-dlp
