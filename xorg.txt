@@ -11,3 +11,4 @@ xorg-xwininfo
 xsel
 xsettingsd
 xwallpaper
+maim

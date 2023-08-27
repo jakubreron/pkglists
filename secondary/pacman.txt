@@ -23,6 +23,8 @@ btop
 calcurse
 calf
 catdoc
+catppuccin-gtk-theme-latte
+catppuccin-gtk-theme-mocha
 chromium
 cointop-bin
 colorpicker
@@ -32,6 +34,7 @@ darkman
 ddcutil
 dhcpcd
 dialog
+discord
 dnsmasq
 docx2txt
 dog
@@ -71,15 +74,17 @@ git-delta
 gnome-disk-utility
 gnome-keyring
 gnome-multi-writer
+gnome-settings-daemon
 gnome-sound-recorder
 gnome-system-monitor
 gnu-free-fonts
 go
 gparted
+grim
 grive
 grub
 gst-plugin-pipewire
-hyprland-git
+hyprland
 hyprpaper
 imagemagick
 inotify-tools
@@ -112,7 +117,6 @@ luacheck
 luarocks
 lxrandr
 lynx
-maim
 man-db
 marker
 mcfly
@@ -147,6 +151,7 @@ nsxiv
 ntfs-3g
 ntp
 odt2txt
+oranchelo-icon-theme
 os-prober
 p7zip
 pacman-contrib
@@ -185,9 +190,11 @@ rsync
 rust
 rust-analyzer
 screenkey
+sddm-git
 seahorse
 shellcheck
 slock
+slurp
 speech-dispatcher
 speedtest-cli
 sshfs
@@ -221,7 +228,6 @@ vim
 vulkan-intel
 w3m
 waybar-hyprland-git
-webcord-bin
 wget
 whitesur-cursor-theme-git
 whois
