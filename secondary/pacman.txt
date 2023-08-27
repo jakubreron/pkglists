@@ -5,7 +5,6 @@ adw-gtk3
 adwaita-icon-theme
 alacritty
 anki-bin
-arandr
 arkenfox-user.js
 atool
 base
@@ -18,7 +17,6 @@ blanket
 blueman
 bluez-utils
 bmon
-breeze
 btop
 calcurse
 calf
@@ -27,7 +25,6 @@ catppuccin-gtk-theme-latte
 catppuccin-gtk-theme-mocha
 chromium
 cointop-bin
-colorpicker
 cronie
 ctags
 darkman
@@ -114,7 +111,6 @@ linux-firmware
 lsp-plugins
 luacheck
 luarocks
-lxrandr
 lynx
 man-db
 marker
@@ -191,7 +187,6 @@ screenkey
 sddm-git
 seahorse
 shellcheck
-slock
 slurp
 speech-dispatcher
 speedtest-cli
@@ -210,14 +205,12 @@ tldr
 tlp
 tmux
 tor-browser
-translate-shell
 transmission-cli
 tremc-git
 ttf-jetbrains-mono-nerd
 ttf-ubraille
 tumbler
 ueberzugpp
-unclutter
 unrar
 unzip
 urlview

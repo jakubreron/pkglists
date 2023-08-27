@@ -13,3 +13,8 @@ xsettingsd
 xwallpaper
 maim
 picom
+slock
+lxrandr
+arandr
+xsettingsd
+unclutter
