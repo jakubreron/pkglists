@@ -48,9 +48,10 @@ entr
 epub-thumbnailer-git
 exa
 exfat-utils
-fcitx
-fcitx-configtool
-fcitx-mozc
+fcitx5
+fcitx5-configtool
+fcitx5-gtk
+fcitx5-mozc
 fd
 ffmpeg
 ffmpegthumbnailer
@@ -82,6 +83,7 @@ grub
 gst-plugin-pipewire
 hyprland
 hyprpaper
+hyprpicker
 imagemagick
 inotify-tools
 intel-compute-runtime
@@ -148,6 +150,7 @@ ntp
 odt2txt
 oranchelo-icon-theme
 os-prober
+otf-font-awesome
 p7zip
 pacman-contrib
 pam-gnupg
@@ -183,7 +186,6 @@ rofi-lbonn-wayland-git
 rsync
 rust
 rust-analyzer
-screenkey
 sddm-git
 seahorse
 shellcheck
@@ -219,6 +221,7 @@ vim
 vulkan-intel
 w3m
 waybar-hyprland-git
+wf-recorder
 wget
 whitesur-cursor-theme-git
 whois
@@ -226,6 +229,7 @@ wireplumber
 wl-clipboard
 wlr-randr
 words
+xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
 xdotool
 xorg-server
