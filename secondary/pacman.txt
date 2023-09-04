@@ -80,8 +80,8 @@ grim
 grive
 grub
 gst-plugin-pipewire
-hyprland-git
-hyprpaper-git
+hyprland
+hyprpaper
 hyprpicker
 imagemagick
 inotify-tools
@@ -219,7 +219,7 @@ vi
 vim
 vulkan-intel
 w3m
-waybar-hyprland-git
+waybar-hyprland
 wf-recorder
 wget
 whitesur-cursor-theme-git
@@ -229,7 +229,7 @@ wl-clipboard
 wlr-randr
 words
 xdg-desktop-portal-gtk
-xdg-desktop-portal-hyprland-git
+xdg-desktop-portal-hyprland
 xdotool
 xorg-server
 xorg-xinput
