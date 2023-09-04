@@ -46,6 +46,7 @@ pyenv
 ripgrep
 rust
 rust-analyzer
+starship
 stow
 tldr
 tmux
