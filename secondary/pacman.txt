@@ -80,7 +80,7 @@ grim
 grive
 grub
 gst-plugin-pipewire
-hyprland
+hyprland-git
 hyprpaper
 hyprpicker
 imagemagick
@@ -228,8 +228,9 @@ wireplumber
 wl-clipboard
 wlr-randr
 words
+wshowkeys-git
 xdg-desktop-portal-gtk
-xdg-desktop-portal-hyprland
+xdg-desktop-portal-hyprland-git
 xdotool
 xorg-server
 xorg-xinput
