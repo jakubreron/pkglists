@@ -21,8 +21,6 @@ btop
 calcurse
 calf
 catdoc
-catppuccin-gtk-theme-latte
-catppuccin-gtk-theme-mocha
 chromium
 cointop-bin
 cronie
