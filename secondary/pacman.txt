@@ -44,8 +44,8 @@ easyeffects
 efibootmgr
 entr
 epub-thumbnailer-git
-exa
 exfat-utils
+eza
 fcitx5
 fcitx5-configtool
 fcitx5-gtk
@@ -75,7 +75,7 @@ gnu-free-fonts
 go
 gparted
 grim
-grive
+grive-git
 grub
 gst-plugin-pipewire
 hyprland-git
@@ -90,6 +90,7 @@ jq
 kdeconnect
 keepassxc
 kvantum
+kvantum-theme-catppuccin-git
 kvantum-theme-libadwaita-git
 laptop-detect
 lazydocker-bin
@@ -201,7 +202,7 @@ tldr
 tlp
 tmux
 transmission-cli
-tremc-git
+tremc
 ttf-jetbrains-mono-nerd
 ttf-ubraille
 tumbler
@@ -224,7 +225,7 @@ wlr-randr
 words
 wshowkeys-git
 xdg-desktop-portal-gtk
-xdg-desktop-portal-hyprland-git
+xdg-desktop-portal-hyprland
 xdotool
 xorg-server
 xorg-xinput
