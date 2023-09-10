@@ -133,6 +133,7 @@ ncdu
 ncmpcpp
 neofetch
 neovim
+neovim-remote
 net-tools
 networkmanager
 nginx
@@ -194,6 +195,7 @@ speedtest-cli
 sshfs
 starship
 stow
+swappy
 swayidle
 swaylock
 tesseract
