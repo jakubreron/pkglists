@@ -22,6 +22,7 @@ calcurse
 calf
 catdoc
 chromium
+cliphist
 cointop-bin
 cronie
 ctags
@@ -191,7 +192,9 @@ slurp
 speech-dispatcher
 speedtest-cli
 sshfs
+starship
 stow
+swayidle
 swaylock
 tesseract
 tesseract-data-jpn
@@ -215,6 +218,7 @@ vim
 vulkan-intel
 w3m
 waybar-hyprland
+wdisplays
 wf-recorder
 wget
 whitesur-cursor-theme-git
