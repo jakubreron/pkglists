@@ -42,6 +42,7 @@ nginx
 node
 nss
 odt2txt
+oven-sh/bun/bun
 pyenv
 ripgrep
 rust
