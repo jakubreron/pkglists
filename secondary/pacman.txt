@@ -79,7 +79,7 @@ grim
 grive-git
 grub
 gst-plugin-pipewire
-hyprland-git
+hyprland
 hyprpaper
 hyprpicker
 imagemagick
