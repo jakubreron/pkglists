@@ -212,6 +212,7 @@ ttf-jetbrains-mono-nerd
 ttf-ubraille
 tumbler
 ueberzugpp
+universal-android-debloater-bin
 unrar
 unzip
 urlview
