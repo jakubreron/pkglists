@@ -24,7 +24,6 @@ catdoc
 chromium
 cliphist
 cointop-bin
-cpupower
 cronie
 ctags
 darkman
@@ -75,7 +74,6 @@ gnome-sound-recorder
 gnome-system-monitor
 gnu-free-fonts
 go
-gobject-introspection
 gparted
 grim
 grive-git
@@ -89,7 +87,6 @@ imagemagick
 inotify-tools
 intel-compute-runtime
 intel-ucode
-intel-undervolt
 jmtpfs
 jq
 kdeconnect
@@ -104,7 +101,6 @@ lf
 lib32-mesa
 lib32-ocl-icd
 lib32-vulkan-intel
-libcurl-gnutls
 libnotify
 libpulse
 libreoffice-fresh
@@ -212,6 +208,8 @@ tesseract-data-osd
 thermald
 ticker-bin
 tldr
+tlp
+tlpui-git
 tmux
 transmission-cli
 tremc
@@ -223,7 +221,6 @@ universal-android-debloater-bin
 unrar
 unzip
 urlview
-ventoy-bin
 vi
 vim
 vulkan-intel
