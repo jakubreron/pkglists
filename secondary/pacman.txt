@@ -198,7 +198,7 @@ speedtest-cli
 sshfs
 starship
 stow
-stress-ng
+stress
 swappy
 swayidle
 swaylock
