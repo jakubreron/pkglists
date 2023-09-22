@@ -24,6 +24,7 @@ catdoc
 chromium
 cliphist
 cointop-bin
+cpupower
 cronie
 ctags
 darkman
@@ -74,6 +75,7 @@ gnome-sound-recorder
 gnome-system-monitor
 gnu-free-fonts
 go
+gobject-introspection
 gparted
 grim
 grive-git
@@ -82,10 +84,12 @@ gst-plugin-pipewire
 hyprland
 hyprpaper
 hyprpicker
+i7z
 imagemagick
 inotify-tools
 intel-compute-runtime
 intel-ucode
+intel-undervolt
 jmtpfs
 jq
 kdeconnect
@@ -100,6 +104,7 @@ lf
 lib32-mesa
 lib32-ocl-icd
 lib32-vulkan-intel
+libcurl-gnutls
 libnotify
 libpulse
 libreoffice-fresh
@@ -126,6 +131,7 @@ mpc
 mpd
 mpv
 mpv-mpvacious
+msr-tools
 mtr
 mutt-wizard
 nautilus
@@ -190,11 +196,13 @@ sddm-git
 seahorse
 shellcheck
 slurp
+socat
 speech-dispatcher
 speedtest-cli
 sshfs
 starship
 stow
+stress-ng
 swappy
 swayidle
 swaylock
@@ -204,7 +212,6 @@ tesseract-data-osd
 thermald
 ticker-bin
 tldr
-tlp
 tmux
 transmission-cli
 tremc
@@ -216,6 +223,7 @@ universal-android-debloater-bin
 unrar
 unzip
 urlview
+ventoy-bin
 vi
 vim
 vulkan-intel
@@ -235,6 +243,7 @@ xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
 xdotool
 xorg-server
+xorg-xhost
 xorg-xinput
 xwaylandvideobridge-cursor-mode-2-git
 yarn
