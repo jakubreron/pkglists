@@ -108,8 +108,6 @@ libva-intel-driver
 libva-mesa-driver
 libva-utils
 light
-linux
-linux-firmware
 lsp-plugins
 luacheck
 luarocks
