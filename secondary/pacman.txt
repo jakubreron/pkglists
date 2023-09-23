@@ -76,7 +76,7 @@ gnu-free-fonts
 go
 gparted
 grim
-grive-git
+grive
 grub
 gst-plugin-pipewire
 hyprland
@@ -184,11 +184,11 @@ ripgrep
 rofi-bluetooth-git
 rofi-calc
 rofi-emoji
-rofi-lbonn-wayland-git
+rofi-lbonn-wayland
 rsync
 rust
 rust-analyzer
-sddm-git
+sddm
 seahorse
 shellcheck
 slurp
