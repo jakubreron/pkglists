@@ -75,11 +75,9 @@ grim
 grive
 grub
 gst-plugin-pipewire
-htop
 hyprland
 hyprpaper
 hyprpicker
-i7z
 imagemagick
 inotify-tools
 intel-compute-runtime
@@ -90,7 +88,6 @@ jq
 kdeconnect
 keepassxc
 keyd
-kitty
 kvantum
 kvantum-theme-catppuccin-git
 kvantum-theme-libadwaita-git
@@ -125,7 +122,6 @@ mpc
 mpd
 mpv
 mpv-mpvacious
-msr-tools
 mtr
 mutt-wizard
 nano
@@ -145,6 +141,7 @@ noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
+npm
 nsxiv
 ntfs-3g
 ntp
@@ -192,7 +189,6 @@ sddm
 seahorse
 shellcheck
 slurp
-smartmontools
 socat
 speech-dispatcher
 speedtest-cli
