@@ -75,9 +75,10 @@ grim
 grive
 grub
 gst-plugin-pipewire
-hyprland
+hyprland-git
 hyprpaper
 hyprpicker
+i7z
 imagemagick
 inotify-tools
 intel-compute-runtime
@@ -202,11 +203,8 @@ swaylock
 tesseract
 tesseract-data-jpn
 tesseract-data-osd
-thermald
 ticker-bin
 tldr
-tlp
-tlpui-git
 tmux
 transmission-cli
 tremc
