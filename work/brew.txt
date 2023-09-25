@@ -27,6 +27,7 @@ koekeishiya/formulae/skhd
 lazydocker
 lazygit
 lf
+llvm
 luacheck
 luarocks
 maven
