@@ -5,6 +5,7 @@ adw-gtk3
 alacritty
 anki-bin
 arkenfox-user.js
+aspell
 atool
 base
 base-devel
@@ -61,6 +62,7 @@ freerdp
 fzf
 gammastep
 gcc-ada
+geary
 geekbench
 gimp
 git
@@ -75,6 +77,7 @@ grim
 grive
 grub
 gst-plugin-pipewire
+hspell
 hyprland-git
 hyprpaper
 hyprpicker
@@ -86,7 +89,6 @@ intel-ucode
 iwd
 jmtpfs
 jq
-kdeconnect
 keepassxc
 keyd
 kvantum
@@ -104,6 +106,7 @@ libreoffice-fresh
 libva-intel-driver
 libva-mesa-driver
 libva-utils
+libvoikko
 light
 linux-firmware
 linux-zen
@@ -146,6 +149,7 @@ npm
 nsxiv
 ntfs-3g
 ntp
+nuspell
 odt2txt
 openssh
 oranchelo-icon-theme
@@ -203,8 +207,10 @@ swaylock
 tesseract
 tesseract-data-jpn
 tesseract-data-osd
+thermald
 ticker-bin
 tldr
+tlp
 tmux
 transmission-cli
 tremc
@@ -212,6 +218,7 @@ ttf-jetbrains-mono-nerd
 ttf-ubraille
 tumbler
 ueberzugpp
+ufw
 universal-android-debloater-bin
 unrar
 unzip
