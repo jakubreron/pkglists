@@ -108,8 +108,8 @@ libva-mesa-driver
 libva-utils
 libvoikko
 light
+linux
 linux-firmware
-linux-zen
 lsp-plugins
 luacheck
 luarocks
@@ -208,9 +208,10 @@ tesseract
 tesseract-data-jpn
 tesseract-data-osd
 thermald
+thinkfan
+thinkfan-ui
 ticker-bin
 tldr
-tlp
 tmux
 transmission-cli
 tremc
