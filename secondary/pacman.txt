@@ -11,7 +11,7 @@ base
 base-devel
 bat
 bc
-betterdiscord-installer
+betterdiscord-installer-bin
 bind
 blanket
 blueman
@@ -21,7 +21,6 @@ btop
 calcurse
 calf
 catdoc
-chromium
 cliphist
 cointop-bin
 cronie
@@ -89,8 +88,10 @@ intel-ucode
 iwd
 jmtpfs
 jq
+kdeconnect
 keepassxc
 keyd
+kitty
 kvantum
 kvantum-theme-catppuccin-git
 kvantum-theme-libadwaita-git
@@ -204,14 +205,15 @@ stress
 swappy
 swayidle
 swaylock
+teams
 tesseract
 tesseract-data-jpn
 tesseract-data-osd
 thermald
-thinkfan
-thinkfan-ui
+thorium-browser-bin
 ticker-bin
 tldr
+tlp
 tmux
 transmission-cli
 tremc
