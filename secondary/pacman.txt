@@ -111,6 +111,7 @@ libvoikko
 light
 linux
 linux-firmware
+loupe
 lsp-plugins
 luacheck
 luarocks
@@ -147,7 +148,6 @@ noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
 npm
-nsxiv
 ntfs-3g
 ntp
 nuspell
@@ -247,7 +247,6 @@ xdg-desktop-portal-hyprland
 xdg-utils
 xdotool
 xorg-xhost
-xwaylandvideobridge-cursor-mode-2-git
 yarn
 yt-dlp
 zam-plugins
