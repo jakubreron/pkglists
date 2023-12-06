@@ -1,7 +1,5 @@
 achannarasappa/tap/ticker
 atool
-azure-cli
-azure/functions/azure-functions-core-tools@4
 bat
 bmon
 btop
@@ -43,7 +41,6 @@ nginx
 node
 nss
 odt2txt
-oven-sh/bun/bun
 pyenv
 ripgrep
 rust

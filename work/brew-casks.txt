@@ -3,15 +3,12 @@ amethyst
 anki
 bluesnooze
 chromium
-eqmac
 firefox
 font-jetbrains-mono-nerd-font
 karabiner-elements
 keepassxc
-maccy
 postman
 raycast
 scroll-reverser
-tunnelblick
 visual-studio-code
 zoom
