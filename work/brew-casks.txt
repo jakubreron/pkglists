@@ -2,13 +2,14 @@ alacritty
 amethyst
 anki
 bluesnooze
-chromium
-firefox
+dbeaver-community
+figma
 font-jetbrains-mono-nerd-font
 karabiner-elements
 keepassxc
 postman
 raycast
 scroll-reverser
+slack
+viber
 visual-studio-code
-zoom

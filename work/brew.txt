@@ -4,11 +4,13 @@ bat
 bmon
 btop
 cointop
+docker
 docx2txt
 duf
 dust
 entr
 exa
+eza
 fd
 findutils
 fnm
@@ -16,6 +18,7 @@ fzf
 git-crypt
 git-delta
 git-flow
+git-lfs
 glow
 gnu-sed
 gnupg
@@ -25,7 +28,8 @@ koekeishiya/formulae/skhd
 lazydocker
 lazygit
 lf
-llvm
+librdkafka
+lua-language-server
 luacheck
 luarocks
 maven
@@ -33,8 +37,12 @@ mcfly
 media-info
 mkcert
 moreutils
+mpc
+mpd
 mtr
+mysql
 ncdu
+ncmpcpp
 neofetch
 neovim
 nginx
@@ -42,6 +50,7 @@ node
 nss
 odt2txt
 pyenv
+python@3.11
 ripgrep
 rust
 rust-analyzer
