@@ -91,6 +91,7 @@ jq
 kdeconnect
 keepassxc
 keyd
+kitty
 kvantum
 kvantum-theme-catppuccin-git
 kvantum-theme-libadwaita-git
@@ -209,7 +210,7 @@ tesseract
 tesseract-data-jpn
 tesseract-data-osd
 thermald
-thorium-browser-bin
+thorium-browser-sse3-bin
 ticker-bin
 tldr
 tlp
