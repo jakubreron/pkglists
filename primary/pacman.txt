@@ -21,6 +21,7 @@ btop
 calcurse
 calf
 catdoc
+cheese
 cliphist
 cointop-bin
 cronie
@@ -71,6 +72,7 @@ gnome-keyring
 gnome-multi-writer
 gnome-sound-recorder
 gnome-system-monitor
+google-chrome
 gparted
 grim
 grive
@@ -142,6 +144,7 @@ networkmanager
 nginx
 nmap
 nodejs
+nordvpn-bin
 notmuch
 noto-fonts
 noto-fonts-cjk
@@ -210,7 +213,6 @@ tesseract
 tesseract-data-jpn
 tesseract-data-osd
 thermald
-thorium-browser-sse3-bin
 ticker-bin
 tldr
 tlp
