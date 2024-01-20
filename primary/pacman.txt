@@ -22,12 +22,14 @@ calcurse
 calf
 catdoc
 cheese
+chromium
 cliphist
 cointop-bin
+cpufrequtils
+cpupower-gui
 cronie
 ctags
 darkman
-ddcutil
 dhcpcd
 dialog
 discord
@@ -86,6 +88,7 @@ i7z
 imagemagick
 inotify-tools
 intel-compute-runtime
+intel-media-driver
 intel-ucode
 iwd
 jmtpfs
@@ -105,6 +108,7 @@ lib32-mesa
 lib32-ocl-icd
 lib32-vulkan-intel
 libnotify
+libpulse
 libreoffice-fresh
 libva-intel-driver
 libva-mesa-driver
@@ -129,7 +133,6 @@ mlocate
 mpc
 mpd
 mpv
-mpv-mpvacious
 mtr
 mutt-wizard
 nano
@@ -140,6 +143,7 @@ neofetch
 neovim
 neovim-remote
 net-tools
+network-manager-applet
 networkmanager
 nginx
 nmap
@@ -155,7 +159,6 @@ ntfs-3g
 ntp
 nuspell
 odt2txt
-openssh
 oranchelo-icon-theme
 os-prober
 otf-font-awesome
@@ -166,6 +169,7 @@ pamixer
 paru-bin
 perl-file-mimeinfo
 perl-image-exiftool
+pipewire
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
@@ -191,7 +195,6 @@ ripgrep
 rofi-bluetooth-git
 rofi-calc
 rofi-emoji
-rofi-lbonn-wayland
 rsync
 rust-analyzer
 sddm
@@ -199,6 +202,7 @@ seahorse
 shellcheck
 slurp
 socat
+sof-firmware
 speech-dispatcher
 speedtest-cli
 sshfs
@@ -208,14 +212,11 @@ stress
 swappy
 swayidle
 swaylock
-teams
 tesseract
 tesseract-data-jpn
 tesseract-data-osd
-thermald
 ticker-bin
 tldr
-tlp
 tmux
 transmission-cli
 tremc
@@ -231,6 +232,7 @@ urlview
 vi
 vim
 vulkan-intel
+vulkan-radeon
 w3m
 waybar-hyprland
 wdisplays
@@ -246,9 +248,14 @@ words
 wshowkeys-git
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
-xdg-utils
 xdotool
+xf86-video-amdgpu
+xf86-video-ati
+xf86-video-nouveau
+xf86-video-vmware
+xorg-server
 xorg-xhost
+xorg-xinit
 yarn
 yt-dlp
 zam-plugins
