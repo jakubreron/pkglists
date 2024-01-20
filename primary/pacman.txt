@@ -26,7 +26,6 @@ chromium
 cliphist
 cointop-bin
 cpufrequtils
-cpupower-gui
 cronie
 ctags
 darkman
@@ -232,7 +231,6 @@ urlview
 vi
 vim
 vulkan-intel
-vulkan-radeon
 w3m
 waybar-hyprland
 wdisplays
@@ -249,10 +247,6 @@ wshowkeys-git
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
 xdotool
-xf86-video-amdgpu
-xf86-video-ati
-xf86-video-nouveau
-xf86-video-vmware
 xorg-server
 xorg-xhost
 xorg-xinit
