@@ -22,13 +22,12 @@ calcurse
 calf
 catdoc
 cheese
-chromium
 cliphist
 cointop-bin
-cpufrequtils
 cronie
 ctags
 darkman
+ddcutil
 dhcpcd
 dialog
 discord
@@ -60,6 +59,7 @@ firefox-developer-edition
 flashrom
 fnm-bin
 freerdp
+fwupd
 fzf
 gammastep
 gcc-ada
@@ -73,6 +73,7 @@ gnome-keyring
 gnome-multi-writer
 gnome-sound-recorder
 gnome-system-monitor
+gobject-introspection
 google-chrome
 gparted
 grim
@@ -87,7 +88,6 @@ i7z
 imagemagick
 inotify-tools
 intel-compute-runtime
-intel-media-driver
 intel-ucode
 iwd
 jmtpfs
@@ -132,6 +132,8 @@ mlocate
 mpc
 mpd
 mpv
+mpv-mpvacious
+msr-tools
 mtr
 mutt-wizard
 nano
@@ -142,12 +144,10 @@ neofetch
 neovim
 neovim-remote
 net-tools
-network-manager-applet
 networkmanager
 nginx
 nmap
 nodejs
-nordvpn-bin
 notmuch
 noto-fonts
 noto-fonts-cjk
@@ -158,6 +158,7 @@ ntfs-3g
 ntp
 nuspell
 odt2txt
+openssh
 oranchelo-icon-theme
 os-prober
 otf-font-awesome
@@ -211,9 +212,12 @@ stress
 swappy
 swayidle
 swaylock
+teams
 tesseract
 tesseract-data-jpn
 tesseract-data-osd
+thermald
+thorium-browser-bin
 ticker-bin
 tldr
 tmux
@@ -247,9 +251,7 @@ wshowkeys-git
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
 xdotool
-xorg-server
 xorg-xhost
-xorg-xinit
 yarn
 yt-dlp
 zam-plugins
