@@ -236,7 +236,7 @@ vi
 vim
 vulkan-intel
 w3m
-waybar-hyprland
+waybar
 wdisplays
 wf-recorder
 wget
