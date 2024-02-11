@@ -217,7 +217,6 @@ tesseract
 tesseract-data-jpn
 tesseract-data-osd
 thermald
-thorium-browser-bin
 ticker-bin
 tldr
 tmux
