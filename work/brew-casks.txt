@@ -2,9 +2,11 @@ alacritty
 amethyst
 anki
 bluesnooze
+chromium
 dbeaver-community
 figma
 font-jetbrains-mono-nerd-font
+iterm2
 karabiner-elements
 keepassxc
 postman

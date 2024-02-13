@@ -25,6 +25,7 @@ gnupg
 imagemagick
 jq
 koekeishiya/formulae/skhd
+kubernetes-cli
 lazydocker
 lazygit
 lf
