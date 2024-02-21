@@ -23,6 +23,7 @@ calf
 catdoc
 cheese
 cliphist
+cmatrix
 cointop-bin
 cronie
 ctags
@@ -148,6 +149,7 @@ networkmanager
 nginx
 nmap
 nodejs
+nordvpn-bin
 notmuch
 noto-fonts
 noto-fonts-cjk
