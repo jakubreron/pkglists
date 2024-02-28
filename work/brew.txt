@@ -60,6 +60,7 @@ starship
 stow
 tldr
 tmux
+watch
 wget
 xclip
 yarn

@@ -6,6 +6,7 @@ chromium
 dbeaver-community
 figma
 font-jetbrains-mono-nerd-font
+gimp
 iterm2
 karabiner-elements
 keepassxc
