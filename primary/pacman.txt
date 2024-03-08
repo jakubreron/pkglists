@@ -179,7 +179,6 @@ pkgstats
 playerctl
 polkit-kde-agent
 poppler
-postman-bin
 procs
 profile-cleaner
 pulsemixer
