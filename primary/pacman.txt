@@ -74,6 +74,7 @@ gnome-keyring
 gnome-multi-writer
 gnome-sound-recorder
 gnome-system-monitor
+go
 gobject-introspection
 google-chrome
 gparted
@@ -96,7 +97,6 @@ jq
 kdeconnect
 keepassxc
 keyd
-kitty
 kvantum
 kvantum-theme-catppuccin-git
 kvantum-theme-libadwaita-git
@@ -196,6 +196,7 @@ ripgrep
 rofi-bluetooth-git
 rofi-calc
 rofi-emoji-git
+rofi-lbonn-wayland-git
 rsync
 rust-analyzer
 sddm
