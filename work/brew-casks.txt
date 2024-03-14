@@ -10,6 +10,7 @@ gimp
 iterm2
 karabiner-elements
 keepassxc
+opera
 postman
 raycast
 scroll-reverser
