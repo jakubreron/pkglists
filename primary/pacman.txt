@@ -23,6 +23,7 @@ calf
 catdoc
 cheese
 cliphist
+cmatrix
 cointop-bin
 cronie
 ctags
@@ -59,6 +60,7 @@ firefox-developer-edition
 flashrom
 fnm-bin
 freerdp
+fwupd
 fzf
 gammastep
 gcc-ada
@@ -72,6 +74,8 @@ gnome-keyring
 gnome-multi-writer
 gnome-sound-recorder
 gnome-system-monitor
+go
+gobject-introspection
 google-chrome
 gparted
 grim
@@ -93,7 +97,6 @@ jq
 kdeconnect
 keepassxc
 keyd
-kitty
 kvantum
 kvantum-theme-catppuccin-git
 kvantum-theme-libadwaita-git
@@ -105,6 +108,7 @@ lib32-mesa
 lib32-ocl-icd
 lib32-vulkan-intel
 libnotify
+libpulse
 libreoffice-fresh
 libva-intel-driver
 libva-mesa-driver
@@ -130,6 +134,7 @@ mpc
 mpd
 mpv
 mpv-mpvacious
+msr-tools
 mtr
 mutt-wizard
 nano
@@ -166,6 +171,7 @@ pamixer
 paru-bin
 perl-file-mimeinfo
 perl-image-exiftool
+pipewire
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
@@ -173,7 +179,6 @@ pkgstats
 playerctl
 polkit-kde-agent
 poppler
-postman-bin
 procs
 profile-cleaner
 pulsemixer
@@ -190,8 +195,8 @@ reflector
 ripgrep
 rofi-bluetooth-git
 rofi-calc
-rofi-emoji
-rofi-lbonn-wayland
+rofi-emoji-git
+rofi-lbonn-wayland-git
 rsync
 rust-analyzer
 sddm
@@ -199,6 +204,7 @@ seahorse
 shellcheck
 slurp
 socat
+sof-firmware
 speech-dispatcher
 speedtest-cli
 sshfs
@@ -215,7 +221,6 @@ tesseract-data-osd
 thermald
 ticker-bin
 tldr
-tlp
 tmux
 transmission-cli
 tremc
@@ -228,12 +233,11 @@ universal-android-debloater-bin
 unrar
 unzip
 urlview
-ventoy-bin
 vi
 vim
 vulkan-intel
 w3m
-waybar-hyprland
+waybar
 wdisplays
 wf-recorder
 wget
@@ -247,7 +251,6 @@ words
 wshowkeys-git
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
-xdg-utils
 xdotool
 xorg-xhost
 yarn
