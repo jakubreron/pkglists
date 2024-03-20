@@ -83,7 +83,7 @@ grive
 grub
 gst-plugin-pipewire
 hspell
-hyprland-git
+hyprland
 hyprpaper
 hyprpicker
 i7z
