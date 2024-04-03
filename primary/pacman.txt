@@ -119,7 +119,6 @@ linux
 linux-firmware
 loupe
 lsp-plugins
-luacheck
 luarocks
 lynx
 man-db
