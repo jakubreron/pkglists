@@ -10,6 +10,7 @@ gimp
 iterm2
 karabiner-elements
 keepassxc
+kitty
 opera
 postman
 raycast

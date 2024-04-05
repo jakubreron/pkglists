@@ -29,8 +29,8 @@ kubernetes-cli
 lazydocker
 lazygit
 lf
-libfido2
 librdkafka
+liquibase
 lua-language-server
 luacheck
 luarocks
@@ -41,7 +41,7 @@ moreutils
 mpc
 mpd
 mtr
-mysql@5.7
+mysql-client
 ncdu
 ncmpcpp
 neofetch
@@ -50,6 +50,8 @@ nginx
 node
 nss
 odt2txt
+openssl@1.1
+protobuf
 protobuf@21
 pyenv
 python@3.11
@@ -64,6 +66,5 @@ watch
 wget
 xclip
 yarn
-zlib
 zsh-completions
 zsh-fast-syntax-highlighting
