@@ -23,8 +23,10 @@ calf
 catdoc
 cheese
 cliphist
+cmake
 cmatrix
 cointop-bin
+cpio
 cronie
 ctags
 darkman
@@ -128,6 +130,7 @@ mda.lv2
 mediainfo
 meld
 mesa-utils
+meson
 mlocate
 mpc
 mpd
