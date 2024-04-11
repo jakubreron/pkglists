@@ -99,6 +99,7 @@ jq
 kdeconnect
 keepassxc
 keyd
+kitty
 kvantum
 kvantum-theme-catppuccin-git
 kvantum-theme-libadwaita-git
