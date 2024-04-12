@@ -2,6 +2,7 @@ alacritty
 amethyst
 anki
 bluesnooze
+bruno
 chromium
 dbeaver-community
 figma
@@ -12,7 +13,6 @@ karabiner-elements
 keepassxc
 kitty
 opera
-postman
 raycast
 scroll-reverser
 slack
