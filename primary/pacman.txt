@@ -92,6 +92,7 @@ i7z
 imagemagick
 inotify-tools
 intel-compute-runtime
+intel-media-driver
 intel-ucode
 iwd
 jmtpfs
