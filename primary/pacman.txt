@@ -34,6 +34,7 @@ ddcutil
 dhcpcd
 dialog
 discord
+dkms
 dnsmasq
 docx2txt
 dog
@@ -121,6 +122,7 @@ libvoikko
 light
 linux
 linux-firmware
+linux-headers
 loupe
 lsp-plugins
 luarocks
@@ -222,7 +224,6 @@ teams
 tesseract
 tesseract-data-jpn
 tesseract-data-osd
-thermald
 ticker-bin
 tldr
 tmux
