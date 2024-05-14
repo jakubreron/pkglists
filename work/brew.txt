@@ -52,10 +52,7 @@ nginx
 nlohmann-json
 node
 odt2txt
-protobuf
-protobuf@21
 pyenv
-python@3.11
 range-v3
 ripgrep
 rust
