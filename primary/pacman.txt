@@ -200,7 +200,7 @@ qt6ct
 reflector
 ripgrep
 rofi-bluetooth-git
-rofi-calc
+rofi-calc-git
 rofi-emoji-git
 rofi-lbonn-wayland-git
 rsync
