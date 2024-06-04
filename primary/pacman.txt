@@ -194,7 +194,6 @@ python-pyqt5
 python-setuptools
 qt5-tools
 qt5-wayland
-qt5ct
 qt6-tools
 qt6-wayland
 qt6ct
