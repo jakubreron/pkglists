@@ -4,6 +4,7 @@ acpilight
 adw-gtk3
 alacritty
 anki-bin
+appimagelauncher
 arkenfox-user.js
 aspell
 atool
