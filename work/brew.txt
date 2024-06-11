@@ -24,6 +24,7 @@ git-flow
 git-lfs
 glow
 gnu-sed
+hyperfine
 jq
 jstkdng/programs/ueberzugpp
 koekeishiya/formulae/skhd
