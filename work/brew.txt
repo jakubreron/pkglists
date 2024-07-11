@@ -6,8 +6,8 @@ btop
 cli11
 cmake
 cointop
+colima
 cpp-gsl
-docker
 docx2txt
 duf
 dust
