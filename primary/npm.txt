@@ -1,0 +1,5 @@
+@antfu/ni
+neovim
+nodemon
+npm
+tree-sitter-cli
