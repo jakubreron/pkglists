@@ -235,6 +235,7 @@ ttf-ubraille
 tumbler
 ueberzugpp
 ufw
+universal-android-debloater
 unrar
 unzip
 urlview
