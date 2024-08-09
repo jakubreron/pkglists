@@ -5,7 +5,6 @@ adw-gtk3
 alacritty
 anki-bin
 appimagelauncher
-arkenfox-user.js
 aspell
 atool
 base
@@ -14,6 +13,7 @@ bat
 bc
 betterdiscord-installer-bin
 bind
+bitwarden
 blanket
 blueman
 bluez-utils
@@ -97,6 +97,7 @@ inotify-tools
 intel-compute-runtime
 intel-media-driver
 intel-ucode
+intel-undervolt
 iwd
 jmtpfs
 jq
@@ -193,6 +194,7 @@ pulsemixer
 python-pip
 python-pyqt5
 python-setuptools
+python-undervolt
 qt5-tools
 qt5-wayland
 qt6-tools
