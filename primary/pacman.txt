@@ -66,6 +66,7 @@ fnm-bin
 freerdp
 fwupd
 fzf
+gamescope
 gammastep
 gcc-ada
 geary
@@ -138,7 +139,6 @@ mediainfo
 meld
 mesa-utils
 meson
-mlocate
 mpc
 mpd
 mpv
@@ -177,7 +177,7 @@ p7zip
 pacman-contrib
 pam-gnupg
 pamixer
-paru-bin
+paru-git
 perl-file-mimeinfo
 perl-image-exiftool
 pipewire
@@ -186,6 +186,7 @@ pipewire-jack
 pipewire-pulse
 pkgstats
 playerctl
+plocate
 polkit-kde-agent
 poppler
 procs
@@ -218,6 +219,7 @@ speech-dispatcher
 speedtest-cli
 sshfs
 starship
+steam
 stow
 stress
 swappy
@@ -241,6 +243,7 @@ universal-android-debloater
 unrar
 unzip
 urlview
+vesktop-bin
 vi
 vim
 vulkan-intel
