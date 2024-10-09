@@ -1,7 +1,7 @@
 abook
 acpi
 acpilight
-adw-gtk3
+adw-gtk-theme
 alacritty
 anki-bin
 appimagelauncher
