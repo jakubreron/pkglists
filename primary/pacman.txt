@@ -1,7 +1,7 @@
 abook
 acpi
 acpilight
-adw-gtk3
+adw-gtk-theme
 alacritty
 anki-bin
 appimagelauncher
@@ -206,7 +206,7 @@ ripgrep
 rofi-bluetooth-git
 rofi-calc-git
 rofi-emoji-git
-rofi-lbonn-wayland-git
+rofi-wayland
 rsync
 rust-analyzer
 sddm
