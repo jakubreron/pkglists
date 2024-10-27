@@ -1,10 +1,2 @@
-@antfu/ni
 corepack
-neovim
-node-gyp
-nodemon
-nopt
 npm
-semver
-tree-sitter-cli
-yarn
