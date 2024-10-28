@@ -13,7 +13,6 @@ docx2txt
 duf
 dust
 entr
-exa
 eza
 fd
 findutils
@@ -23,7 +22,6 @@ git-crypt
 git-delta
 git-flow
 git-lfs
-glow
 gnu-sed
 hyperfine
 jq
@@ -44,7 +42,6 @@ mkcert
 moreutils
 mtr
 mysql-client
-mysql-client@8.4
 ncdu
 neofetch
 neovim-remote
@@ -60,7 +57,6 @@ tldr
 tmux
 watch
 wget
-xclip
 yarn
 zsh-completions
 zsh-fast-syntax-highlighting
