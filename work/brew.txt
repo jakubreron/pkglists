@@ -34,6 +34,7 @@ lazygit
 lf
 librdkafka
 liquibase
+llvm
 lua-language-server
 luacheck
 luarocks
@@ -41,13 +42,10 @@ maven
 media-info
 mkcert
 moreutils
-mpc
-mpd
 mtr
 mysql-client
 mysql-client@8.4
 ncdu
-ncmpcpp
 neofetch
 neovim-remote
 nginx
@@ -57,9 +55,6 @@ odt2txt
 pyenv
 range-v3
 ripgrep
-rust
-rust-analyzer
-starship
 stow
 tldr
 tmux

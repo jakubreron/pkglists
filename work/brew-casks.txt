@@ -10,15 +10,12 @@ figma
 font-jetbrains-mono-nerd-font
 gimp
 google-chrome
-iterm2
 karabiner-elements
 keepassxc
 kitty
-opera
 raycast
 scroll-reverser
 slack
 viber
 visual-studio-code
-warp
 wezterm
