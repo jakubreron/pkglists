@@ -27,10 +27,12 @@ cliphist
 cmake
 cmatrix
 cointop-bin
+composer
 cpio
 cronie
 ctags
 darkman
+dbeaver
 ddcutil
 dhcpcd
 dialog
@@ -92,6 +94,7 @@ hspell
 hyprland
 hyprpaper
 hyprpicker
+hyprpolkitagent-git
 i7z
 imagemagick
 inotify-tools
@@ -105,7 +108,6 @@ jq
 kdeconnect
 keepassxc
 keyd
-kitty
 kvantum
 kvantum-theme-catppuccin-git
 kvantum-theme-libadwaita-git
@@ -127,11 +129,13 @@ light
 linux
 linux-firmware
 linux-headers
+local-by-flywheel-bin
 loupe
 lsp-plugins
 luarocks
 lynx
 man-db
+mariadb
 marker
 mcfly
 mda.lv2
@@ -187,7 +191,6 @@ pipewire-pulse
 pkgstats
 playerctl
 plocate
-polkit-kde-agent
 poppler
 procs
 profile-cleaner
