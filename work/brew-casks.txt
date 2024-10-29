@@ -9,10 +9,8 @@ dbeaver-community
 figma
 font-jetbrains-mono-nerd-font
 gimp
-google-chrome
 karabiner-elements
 keepassxc
-kitty
 raycast
 scroll-reverser
 slack
