@@ -172,6 +172,7 @@ npm
 ntfs-3g
 ntp
 nuspell
+nwg-look
 odt2txt
 openssh
 oranchelo-icon-theme
@@ -253,6 +254,7 @@ vulkan-intel
 w3m
 waybar
 wdisplays
+wezterm
 wf-recorder
 wget
 whitesur-cursor-theme-git
@@ -263,7 +265,6 @@ wl-clipboard
 wlr-randr
 words
 wshowkeys-git
-xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
 xdotool
 xorg-xhost
