@@ -25,7 +25,6 @@ git-lfs
 gnu-sed
 hyperfine
 jq
-jstkdng/programs/ueberzugpp
 kubernetes-cli
 lazydocker
 lazygit
@@ -41,13 +40,14 @@ media-info
 mkcert
 moreutils
 mtr
-mysql-client
+mysql-client@8.4
 ncdu
 neofetch
 neovim-remote
 nginx
 nlohmann-json
 node
+nss
 odt2txt
 pyenv
 range-v3
