@@ -1,13 +1,5 @@
-@styled/typescript-styled-plugin
-corepack
-husky
-jest
 neovim
-node-gyp
 nodemon
 npm
 nx
-singularity
-ts-node
-typescript-styled-plugin
 typescript
