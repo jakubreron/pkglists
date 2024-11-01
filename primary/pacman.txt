@@ -254,7 +254,6 @@ vulkan-intel
 w3m
 waybar
 wdisplays
-wezterm
 wf-recorder
 wget
 whitesur-cursor-theme-git
