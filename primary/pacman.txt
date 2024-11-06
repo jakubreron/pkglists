@@ -76,12 +76,14 @@ geekbench
 gimp
 git
 git-delta
+glow
 gnome-calculator
 gnome-disk-utility
 gnome-keyring
 gnome-multi-writer
 gnome-sound-recorder
 gnome-system-monitor
+gnumeric
 go
 gobject-introspection
 google-chrome
@@ -254,12 +256,14 @@ vulkan-intel
 w3m
 waybar
 wdisplays
+wezterm
 wf-recorder
 wget
 whitesur-cursor-theme-git
 whois
 wireless_tools
 wireplumber
+wkhtmltopdf-static
 wl-clipboard
 wlr-randr
 words
@@ -267,7 +271,6 @@ wshowkeys-git
 xdg-desktop-portal-hyprland
 xdotool
 xorg-xhost
-yarn
 yt-dlp
 zam-plugins
 zathura
