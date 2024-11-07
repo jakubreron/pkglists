@@ -23,6 +23,7 @@ git-delta
 git-flow
 git-lfs
 gnu-sed
+gnupg
 hyperfine
 jq
 kubernetes-cli
