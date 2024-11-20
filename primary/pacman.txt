@@ -124,7 +124,6 @@ libnotify
 libpulse
 libreoffice-fresh
 libva-intel-driver
-libva-mesa-driver
 libva-utils
 libvoikko
 light
