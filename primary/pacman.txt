@@ -62,7 +62,7 @@ fd
 ffmpegthumbnailer
 file-roller
 filezilla
-firefox-developer-edition
+firefox
 flashrom
 fnm-bin
 freerdp
@@ -248,7 +248,6 @@ universal-android-debloater
 unrar
 unzip
 urlview
-vesktop-bin
 vi
 vim
 vulkan-intel
