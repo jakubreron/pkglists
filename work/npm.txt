@@ -2,5 +2,4 @@ corepack
 neovim
 nodemon
 npm
-nx
 typescript
