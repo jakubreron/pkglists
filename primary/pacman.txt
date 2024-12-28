@@ -273,6 +273,7 @@ yt-dlp
 zam-plugins
 zathura
 zathura-pdf-mupdf
+zen-browser-bin
 zenity
 zip
 zram-generator
