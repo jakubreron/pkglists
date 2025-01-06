@@ -1,3 +1,4 @@
+7zip
 abook
 acpi
 acpilight
@@ -96,7 +97,7 @@ hspell
 hyprland
 hyprpaper
 hyprpicker
-hyprpolkitagent-git
+hyprpolkitagent
 i7z
 imagemagick
 inotify-tools
@@ -179,7 +180,6 @@ openssh
 oranchelo-icon-theme
 os-prober
 otf-font-awesome
-p7zip
 pacman-contrib
 pam-gnupg
 pamixer
