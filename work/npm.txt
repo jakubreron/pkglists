@@ -1,5 +1,2 @@
 corepack
-neovim
-nodemon
 npm
-typescript
