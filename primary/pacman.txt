@@ -72,7 +72,6 @@ fzf
 gamescope
 gammastep
 gcc-ada
-geary
 geekbench
 gimp
 git
@@ -234,6 +233,7 @@ teams
 tesseract
 tesseract-data-jpn
 tesseract-data-osd
+thunderbird
 ticker-bin
 tldr
 tmux
