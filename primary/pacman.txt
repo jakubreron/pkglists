@@ -108,7 +108,6 @@ iwd
 jmtpfs
 jq
 kdeconnect
-keepassxc
 keyd
 kvantum
 kvantum-theme-catppuccin-git
