@@ -27,7 +27,6 @@ cheese
 cliphist
 cmake
 cmatrix
-cointop-bin
 composer
 cpio
 cronie
@@ -264,7 +263,6 @@ wkhtmltopdf-static
 wl-clipboard
 wlr-randr
 words
-wshowkeys-git
 xdg-desktop-portal-hyprland
 xdotool
 xorg-xhost
