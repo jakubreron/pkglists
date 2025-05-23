@@ -14,7 +14,6 @@ bat
 bc
 betterdiscord-installer-bin
 bind
-bitwarden
 blanket
 blueman
 bluez-utils
@@ -160,14 +159,12 @@ net-tools
 networkmanager
 nginx
 nmap
-nodejs
 nordvpn-bin
 notmuch
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
-npm
 ntfs-3g
 ntp
 nuspell
