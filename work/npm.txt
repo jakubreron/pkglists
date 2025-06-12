@@ -1,2 +1,10 @@
+@antfu/ni
 corepack
+husky
+neovim
+nodemon
 npm
+nx
+prettier
+ts-node
+typescript
