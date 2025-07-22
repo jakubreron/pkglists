@@ -7,4 +7,5 @@ npm
 nx
 prettier
 ts-node
+tsx
 typescript
