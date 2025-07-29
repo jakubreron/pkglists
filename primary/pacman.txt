@@ -74,9 +74,9 @@ gobject-introspection
 google-chrome
 gparted
 grim
-grive
 grub
 gst-plugin-pipewire
+gtk3
 hspell
 hyprland
 hyprpaper
@@ -138,12 +138,14 @@ net-tools
 networkmanager
 nginx
 nmap
+nodejs
 nordvpn-bin
 notmuch
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
+npm
 ntfs-3g
 ntp
 nuspell
@@ -153,6 +155,7 @@ openssh
 os-prober
 pacman-contrib
 pam-gnupg
+paru-debug
 paru-git
 perl-file-mimeinfo
 perl-image-exiftool
@@ -171,7 +174,6 @@ python-setuptools
 qt5-tools
 qt5-wayland
 qt6-tools
-qt6-wayland
 qt6ct
 reflector
 ripgrep
@@ -206,7 +208,6 @@ ttf-jetbrains-mono-nerd
 ttf-ubraille
 tumbler
 ueberzugpp
-universal-android-debloater
 unrar
 unzip
 urlview
@@ -222,7 +223,7 @@ wf-recorder
 wget
 whois
 wireplumber
-wkhtmltopdf-static
+wkhtmltopdf-bin
 wl-clipboard
 wlr-randr
 xdg-desktop-portal-hyprland
