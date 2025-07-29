@@ -2,4 +2,5 @@
 add-gitignore
 nodemon
 npkill
+npm
 typescript
