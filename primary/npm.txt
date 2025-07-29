@@ -1,5 +1,5 @@
-corepack
-node-gyp
-nopt
-npm
-semver
+@antfu/ni
+add-gitignore
+nodemon
+npkill
+typescript
