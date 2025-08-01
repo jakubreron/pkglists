@@ -103,7 +103,6 @@ cask "viber"
 cask "visual-studio-code"
 cask "wezterm"
 cask "wkhtmltopdf"
-cask "zen"
 mas "Okta Verify", id: 490179405
 mas "Xcode", id: 497799835
 vscode "davidanson.vscode-markdownlint"
