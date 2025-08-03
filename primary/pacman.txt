@@ -54,9 +54,11 @@ fcitx5-mozc
 fd
 ffmpegthumbnailer
 file-roller
+firefox
 fnm-bin
 fzf
 gammastep
+geary
 geekbench
 gimp
 git
@@ -198,7 +200,6 @@ swaylock
 tesseract
 tesseract-data-jpn
 tesseract-data-osd
-thunderbird
 ticker-bin
 tldr
 tmux

@@ -3,4 +3,5 @@ add-gitignore
 nodemon
 npkill
 npm
+tsx
 typescript
