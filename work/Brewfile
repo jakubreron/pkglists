@@ -105,6 +105,7 @@ cask "wezterm"
 cask "wkhtmltopdf"
 mas "Okta Verify", id: 490179405
 mas "Xcode", id: 497799835
+vscode "bierner.markdown-mermaid"
 vscode "davidanson.vscode-markdownlint"
 vscode "dbaeumer.vscode-eslint"
 vscode "esbenp.prettier-vscode"
