@@ -63,7 +63,7 @@ brew "neovide"
 brew "neovim-remote"
 brew "nginx", restart_service: :changed
 brew "nlohmann-json"
-brew "node", link: false
+brew "node"
 brew "nss"
 brew "odt2txt"
 brew "poppler"
