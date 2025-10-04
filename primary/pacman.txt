@@ -126,6 +126,7 @@ mediainfo
 meld
 mesa-utils
 meson
+minecraft-launcher
 mpc
 mpd
 mpv
@@ -179,10 +180,10 @@ qt6-tools
 qt6ct
 reflector
 ripgrep
+rofi
 rofi-bluetooth-git
 rofi-calc-git
 rofi-emoji-git
-rofi-wayland
 rsync
 rust-analyzer
 sddm
@@ -215,6 +216,7 @@ urlview
 ventoy-bin
 vi
 vim
+vlc
 vulkan-intel
 w3m
 waybar
