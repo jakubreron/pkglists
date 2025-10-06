@@ -80,7 +80,9 @@ grub
 gst-plugin-pipewire
 gtk3
 hspell
+hypridle
 hyprland
+hyprlock
 hyprpaper
 hyprpicker
 hyprpolkitagent
@@ -169,6 +171,7 @@ pipewire-pulse
 pkgstats
 playerctl
 poppler
+prismlauncher
 procs
 profile-cleaner
 pulsemixer
@@ -197,7 +200,6 @@ stow
 stress
 swappy
 swayidle
-swaylock
 tesseract
 tesseract-data-jpn
 tesseract-data-osd
@@ -234,7 +236,6 @@ yt-dlp
 zam-plugins
 zathura
 zathura-pdf-mupdf
-zen-browser-bin
 zenity
 zip
 zram-generator
