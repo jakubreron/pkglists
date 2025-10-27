@@ -1,2 +1,4 @@
+@antfu/ni
 corepack
 npm
+tsx
