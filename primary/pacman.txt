@@ -73,7 +73,6 @@ gnome-system-monitor
 gnumeric
 go
 gobject-introspection
-google-chrome
 gparted
 grim
 grub
@@ -102,7 +101,7 @@ kvantum
 kvantum-theme-catppuccin-git
 kvantum-theme-libadwaita-git
 laptop-detect
-lazydocker-bin
+lazydocker
 lazygit
 lf
 lib32-mesa
