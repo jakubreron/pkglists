@@ -59,7 +59,7 @@ brew "neofetch"
 brew "neovim"
 brew "neovide"
 brew "neovim-remote"
-brew "nginx", restart_service: :changed
+brew "nginx"
 brew "nlohmann-json"
 brew "node"
 brew "nss"
