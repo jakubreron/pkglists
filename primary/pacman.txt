@@ -2,6 +2,7 @@
 acpi
 acpilight
 adw-gtk-theme
+aerc
 alacritty
 anki-bin
 aspell
@@ -11,13 +12,14 @@ base-devel
 bat
 bc
 bind
-blueman
+blueberry
 bluez-utils
 bmon
 btop
 calf
 catdoc
 cheese
+chromium
 cliphist
 cmake
 cmatrix
@@ -141,7 +143,6 @@ net-tools
 networkmanager
 nginx
 nmap
-nodejs
 nordvpn-bin
 notmuch
 noto-fonts
@@ -189,6 +190,7 @@ rsync
 rust-analyzer
 sddm
 seahorse
+slack-desktop
 slurp
 sof-firmware
 speech-dispatcher
@@ -229,6 +231,7 @@ wireplumber
 wkhtmltopdf-bin
 wl-clipboard
 wlr-randr
+wtype
 xdg-desktop-portal-hyprland
 yt-dlp
 zam-plugins
