@@ -64,6 +64,7 @@ brew "nginx", restart_service: :changed
 brew "nlohmann-json"
 brew "node"
 brew "nss"
+brew "nvm"
 brew "odt2txt"
 brew "poppler"
 brew "pyenv"
