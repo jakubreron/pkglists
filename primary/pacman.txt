@@ -61,7 +61,6 @@ firefox
 fnm-bin
 fprintd
 fzf
-gammastep
 geary
 geekbench
 gimp
@@ -90,6 +89,8 @@ hyprlock
 hyprpaper
 hyprpicker
 hyprpolkitagent
+hyprshutdown
+hyprsunset
 i7z
 imagemagick
 inotify-tools
