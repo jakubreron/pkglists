@@ -47,6 +47,7 @@ easyeffects
 efibootmgr
 entr
 epub-thumbnailer-git
+ex-vi-compat
 exfat-utils
 eza
 fcitx5
@@ -58,6 +59,7 @@ ffmpegthumbnailer
 file-roller
 firefox
 fnm-bin
+fprintd
 fzf
 gammastep
 geary
@@ -80,6 +82,7 @@ grim
 grub
 gst-plugin-pipewire
 gtk3
+hashcat
 hspell
 hypridle
 hyprland
@@ -96,6 +99,7 @@ intel-ucode
 intel-undervolt
 iwd
 jmtpfs
+john
 jq
 kdeconnect
 keyd
@@ -137,6 +141,7 @@ mtr
 nautilus
 ncdu
 ncmpcpp
+neofetch
 neovim
 neovim-remote
 net-tools
@@ -159,8 +164,9 @@ openssh
 os-prober
 pacman-contrib
 pam-gnupg
+paru
 paru-debug
-paru-git
+perl-compress-raw-lzma
 perl-file-mimeinfo
 perl-image-exiftool
 pipewire
@@ -180,6 +186,7 @@ qt5-tools
 qt5-wayland
 qt6-tools
 qt6ct
+rarcrack
 reflector
 ripgrep
 rofi
@@ -216,7 +223,6 @@ unrar
 unzip
 urlview
 ventoy-bin
-vi
 vim
 vlc
 vulkan-intel
@@ -227,6 +233,7 @@ wezterm
 wf-recorder
 wget
 whois
+wifitui
 wireplumber
 wkhtmltopdf-bin
 wl-clipboard
