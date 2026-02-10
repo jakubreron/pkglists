@@ -60,9 +60,11 @@ file-roller
 firefox
 fnm-bin
 fprintd
+fwupd
 fzf
 geary
 geekbench
+geoclue
 gimp
 git
 git-delta
@@ -81,6 +83,7 @@ grim
 grub
 gst-plugin-pipewire
 gtk3
+gvfs-mtp
 hashcat
 hspell
 hypridle
@@ -93,7 +96,6 @@ hyprshutdown
 hyprsunset
 i7z
 imagemagick
-inotify-tools
 intel-compute-runtime
 intel-media-driver
 intel-ucode
@@ -214,6 +216,7 @@ ticker-bin
 tldr
 tmux
 transmission-cli
+tree-sitter-cli
 tremc
 ttf-jetbrains-mono-nerd
 ttf-ubraille
