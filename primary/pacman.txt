@@ -92,6 +92,7 @@ hyprlock
 hyprpaper
 hyprpicker
 hyprpolkitagent
+hyprqt6engine
 hyprshutdown
 hyprsunset
 i7z
