@@ -2,6 +2,7 @@
 acpi
 acpilight
 adw-gtk-theme
+adwaita-qt6
 aerc
 alacritty
 anki-bin
@@ -189,6 +190,7 @@ python-setuptools
 qt5-tools
 qt5-wayland
 qt6-tools
+qt6ct
 rarcrack
 reflector
 ripgrep
