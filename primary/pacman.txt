@@ -196,7 +196,7 @@ reflector
 ripgrep
 rofi
 rofi-bluetooth-git
-rofi-calc-git
+rofi-calc
 rofi-emoji-git
 rsync
 rust-analyzer
