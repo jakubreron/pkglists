@@ -196,7 +196,6 @@ reflector
 ripgrep
 rofi
 rofi-bluetooth-git
-rofi-calc
 rofi-emoji-git
 rsync
 rust-analyzer
@@ -241,7 +240,6 @@ wget
 whois
 wifitui
 wireplumber
-wkhtmltopdf-bin
 wl-clipboard
 wlr-randr
 wtype
