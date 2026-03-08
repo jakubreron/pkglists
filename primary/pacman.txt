@@ -244,6 +244,7 @@ wl-clipboard
 wlr-randr
 wtype
 xdg-desktop-portal-hyprland
+xwaylandvideobridge
 yt-dlp
 zam-plugins
 zathura
