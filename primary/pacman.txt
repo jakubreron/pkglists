@@ -216,6 +216,7 @@ tesseract-data-jpn
 tesseract-data-osd
 ticker-bin
 tldr
+tlp
 tmux
 transmission-cli
 tree-sitter-cli
