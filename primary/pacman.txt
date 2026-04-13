@@ -21,6 +21,7 @@ calf
 catdoc
 cheese
 chromium
+claude-code
 cliphist
 cmake
 cmatrix
