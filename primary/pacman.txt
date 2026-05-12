@@ -65,7 +65,6 @@ fprintd
 fwupd
 fzf
 geary
-geekbench
 geoclue
 gimp
 git
@@ -202,7 +201,6 @@ rsync
 rust-analyzer
 sddm
 seahorse
-slack-desktop
 slurp
 sof-firmware
 speech-dispatcher
@@ -229,7 +227,6 @@ ueberzugpp
 unrar
 unzip
 urlview
-ventoy-bin
 vim
 vlc
 vulkan-intel
