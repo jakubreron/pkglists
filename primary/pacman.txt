@@ -89,6 +89,7 @@ hashcat
 hspell
 hypridle
 hyprland
+hyprlauncher
 hyprlock
 hyprpaper
 hyprpicker
@@ -190,7 +191,6 @@ python-setuptools
 qt5-tools
 qt5-wayland
 qt6-tools
-qt6ct
 rarcrack
 reflector
 ripgrep
