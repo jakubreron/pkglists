@@ -149,7 +149,6 @@ ncdu
 ncmpcpp
 neofetch
 neovim
-neovim-remote
 net-tools
 networkmanager
 nginx
