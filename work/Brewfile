@@ -17,7 +17,7 @@ brew "colordiff"
 brew "cpp-gsl"
 brew "defaultbrowser"
 brew "dnsmasq"
-brew "docker"
+brew "docker", link: false
 brew "docker-compose"
 brew "docx2txt"
 brew "duckdb"
@@ -115,6 +115,7 @@ cask "scroll-reverser"
 cask "slack"
 cask "viber"
 cask "visual-studio-code"
+cask "vysor"
 mas "LastPass", id: 926036361
 mas "Okta Verify", id: 490179405
 vscode "bierner.markdown-mermaid"
