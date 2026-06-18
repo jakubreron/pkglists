@@ -1,6 +1,7 @@
 @lhci/cli
 biome
 lighthouse
+markdownlint-cli
 markdownlint
 nodemon
 npm
