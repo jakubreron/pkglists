@@ -32,7 +32,7 @@ brew "defaultbrowser"
 # Lightweight DNS forwarder and DHCP server
 brew "dnsmasq"
 # Pack, ship and run any application as a lightweight container
-brew "docker", link: false
+brew "docker"
 # Isolated development environments using Docker
 brew "docker-compose"
 # Converts Microsoft Office docx documents to equivalent text documents
