@@ -154,7 +154,6 @@ net-tools
 networkmanager
 nginx
 nmap
-nordvpn-bin
 notmuch
 noto-fonts
 noto-fonts-cjk
