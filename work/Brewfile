@@ -1,8 +1,10 @@
 tap "achannarasappa/tap", "https://github.com/achannarasappa/tap.git"
-tap "asmvik/formulae"
+tap "asmvik/formulae", "https://github.com/asmvik/homebrew-formulae.git"
 tap "felixkratz/formulae"
 tap "jstkdng/programs"
 tap "nikitabobko/tap"
+# Tool for reverse engineering 3rd party, closed, binary Android apps
+brew "apktool"
 # Code searching, linting, rewriting
 brew "ast-grep"
 # Archival front-end
@@ -222,16 +224,6 @@ cask "visual-studio-code"
 cask "vysor"
 mas "LastPass", id: 926036361
 mas "Okta Verify", id: 490179405
-vscode "bierner.markdown-mermaid"
-vscode "davidanson.vscode-markdownlint"
-vscode "dbaeumer.vscode-eslint"
-vscode "esbenp.prettier-vscode"
-vscode "firsttris.vscode-jest-runner"
-vscode "humao.rest-client"
-vscode "ms-playwright.playwright"
-vscode "ms-vscode-remote.remote-containers"
-vscode "unifiedjs.vscode-mdx"
-vscode "yoavbls.pretty-ts-errors"
 npm "@lhci/cli"
 npm "biome"
 npm "lighthouse"
