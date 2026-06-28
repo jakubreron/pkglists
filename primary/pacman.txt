@@ -65,6 +65,7 @@ fprintd
 fwupd
 fzf
 geary
+gemini-cli
 geoclue
 gimp
 git
@@ -151,6 +152,7 @@ neofetch
 neovim
 neovim-remote
 net-tools
+nethogs
 networkmanager
 nginx
 nmap
@@ -181,6 +183,7 @@ pipewire-pulse
 pkgstats
 playerctl
 poppler
+powertop
 prismlauncher
 procs
 profile-cleaner
@@ -232,6 +235,7 @@ vulkan-intel
 w3m
 waybar
 wdisplays
+wev
 wezterm
 wf-recorder
 wget
