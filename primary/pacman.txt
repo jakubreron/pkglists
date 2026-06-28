@@ -6,6 +6,7 @@ adwaita-qt6
 aerc
 alacritty
 anki-bin
+aquamarine
 aspell
 atool
 base
@@ -88,8 +89,13 @@ gtk3
 gvfs-mtp
 hashcat
 hspell
+hyprcursor
+hyprgraphics
 hypridle
 hyprland
+hyprland-guiutils
+hyprland-protocols
+hyprlang
 hyprlauncher
 hyprlock
 hyprpaper
@@ -98,6 +104,10 @@ hyprpolkitagent
 hyprqt6engine
 hyprshutdown
 hyprsunset
+hyprtoolkit
+hyprutils
+hyprwayland-scanner
+hyprwire
 i7z
 imagemagick
 intel-compute-runtime
