@@ -225,6 +225,7 @@ swayidle
 tesseract
 tesseract-data-jpn
 tesseract-data-osd
+throttled
 ticker-bin
 tldr
 tlp
