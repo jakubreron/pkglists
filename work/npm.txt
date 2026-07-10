@@ -1,4 +1,5 @@
 @lhci/cli
+@openai/codex
 biome
 lighthouse
 markdownlint-cli

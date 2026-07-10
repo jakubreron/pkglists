@@ -183,6 +183,8 @@ brew "yq"
 cask "alacritty"
 # Android SDK component
 cask "android-platform-tools"
+# Memory training application
+cask "anki"
 # Prevents your sleeping computer from connecting to Bluetooth accessories
 cask "bluesnooze"
 # Open source IDE for exploring and testing APIs
@@ -224,7 +226,18 @@ cask "visual-studio-code"
 cask "vysor"
 mas "LastPass", id: 926036361
 mas "Okta Verify", id: 490179405
+vscode "bierner.markdown-mermaid"
+vscode "davidanson.vscode-markdownlint"
+vscode "dbaeumer.vscode-eslint"
+vscode "esbenp.prettier-vscode"
+vscode "firsttris.vscode-jest-runner"
+vscode "humao.rest-client"
+vscode "ms-playwright.playwright"
+vscode "ms-vscode-remote.remote-containers"
+vscode "unifiedjs.vscode-mdx"
+vscode "yoavbls.pretty-ts-errors"
 npm "@lhci/cli"
+npm "@openai/codex"
 npm "biome"
 npm "lighthouse"
 npm "markdownlint-cli"
