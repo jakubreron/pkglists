@@ -17,6 +17,7 @@ bind
 blueberry
 bluez-utils
 bmon
+breeze
 btop
 calf
 catdoc
@@ -104,6 +105,7 @@ hyprpolkitagent
 hyprqt6engine
 hyprshutdown
 hyprsunset
+hyprsysteminfo
 hyprtoolkit
 hyprutils
 hyprwayland-scanner
@@ -120,9 +122,6 @@ john
 jq
 kdeconnect
 keyd
-kvantum
-kvantum-theme-catppuccin-git
-kvantum-theme-libadwaita-git
 laptop-detect
 lazydocker
 lazygit
@@ -226,6 +225,7 @@ tesseract
 tesseract-data-jpn
 tesseract-data-osd
 throttled
+thunderbird
 ticker-bin
 tldr
 tlp
