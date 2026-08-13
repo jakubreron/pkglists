@@ -6,6 +6,7 @@ adwaita-qt6
 aerc
 alacritty
 anki-bin
+aquamarine
 aspell
 atool
 base
@@ -65,6 +66,7 @@ fprintd
 fwupd
 fzf
 geary
+gemini-cli
 geoclue
 gimp
 git
@@ -87,8 +89,13 @@ gtk3
 gvfs-mtp
 hashcat
 hspell
+hyprcursor
+hyprgraphics
 hypridle
 hyprland
+hyprland-guiutils
+hyprland-protocols
+hyprlang
 hyprlauncher
 hyprlock
 hyprpaper
@@ -97,6 +104,10 @@ hyprpolkitagent
 hyprqt6engine
 hyprshutdown
 hyprsunset
+hyprtoolkit
+hyprutils
+hyprwayland-scanner
+hyprwire
 i7z
 imagemagick
 intel-compute-runtime
@@ -149,11 +160,12 @@ ncdu
 ncmpcpp
 neofetch
 neovim
+neovim-remote
 net-tools
+nethogs
 networkmanager
 nginx
 nmap
-nordvpn-bin
 notmuch
 noto-fonts
 noto-fonts-cjk
@@ -181,6 +193,7 @@ pipewire-pulse
 pkgstats
 playerctl
 poppler
+powertop
 prismlauncher
 procs
 profile-cleaner
@@ -212,6 +225,7 @@ swayidle
 tesseract
 tesseract-data-jpn
 tesseract-data-osd
+throttled
 ticker-bin
 tldr
 tlp
@@ -232,6 +246,7 @@ vulkan-intel
 w3m
 waybar
 wdisplays
+wev
 wezterm
 wf-recorder
 wget
