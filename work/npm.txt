@@ -1,4 +1,9 @@
-@colbymchenry/codegraph
-corepack
+@lhci/cli
+@openai/codex
+biome
+lighthouse
+markdownlint-cli
+markdownlint
 nodemon
 npm
+stylelint
