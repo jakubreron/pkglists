@@ -5,6 +5,7 @@ adw-gtk-theme
 adwaita-qt6
 aerc
 alacritty
+android-sdk-platform-tools
 anki-bin
 aquamarine
 aspell
@@ -90,6 +91,7 @@ gtk3
 gvfs-mtp
 hashcat
 hspell
+hypr-kdeconnect-fix-git
 hyprcursor
 hyprgraphics
 hypridle
@@ -153,6 +155,7 @@ mpc
 mpd
 mpv
 mpv-mpvacious
+msr-tools
 mtr
 nautilus
 ncdu
