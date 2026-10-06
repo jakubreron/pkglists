@@ -1,9 +1,3 @@
 @lhci/cli
-@openai/codex
-biome
-lighthouse
-markdownlint-cli
-markdownlint
-nodemon
+corepack
 npm
-stylelint
