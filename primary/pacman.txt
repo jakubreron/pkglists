@@ -91,7 +91,6 @@ gtk3
 gvfs-mtp
 hashcat
 hspell
-hypr-kdeconnect-fix-git
 hyprcursor
 hyprgraphics
 hypridle
