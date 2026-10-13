@@ -124,11 +124,7 @@ brew "ncdu"
 # Fast, highly customisable system info script
 brew "neofetch"
 # Ambitious Vim-fork focused on extensibility and agility
-brew "neovim"
-# No Nonsense Neovim Client in Rust
-brew "neovide"
-# Control nvim processes using `nvr` command-line tool
-brew "neovim-remote"
+brew "neovim", args: ["HEAD"]
 # HTTP(S) server and reverse proxy, and IMAP/POP3 proxy server
 brew "nginx", restart_service: :changed
 # JSON for modern C++
