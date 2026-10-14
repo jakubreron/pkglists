@@ -16,6 +16,7 @@ bat
 bc
 bind
 bitwarden
+bitwarden-cli
 blueberry
 bluez-utils
 bmon
