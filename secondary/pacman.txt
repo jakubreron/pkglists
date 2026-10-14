@@ -95,7 +95,6 @@ kitty
 kvantum
 kvantum-theme-catppuccin-git
 kvantum-theme-libadwaita-git
-laptop-detect
 lazydocker-bin
 lazygit
 lf
