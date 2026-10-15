@@ -6,7 +6,7 @@ adwaita-qt6
 aerc
 alacritty
 android-sdk-platform-tools
-anki-bin
+anki
 aquamarine
 aspell
 atool
@@ -15,6 +15,7 @@ base-devel
 bat
 bc
 bind
+bitwarden
 blueberry
 bluez-utils
 bmon
@@ -123,7 +124,6 @@ john
 jq
 kdeconnect
 keyd
-laptop-detect
 lazydocker
 lazygit
 lf
@@ -183,7 +183,6 @@ os-prober
 pacman-contrib
 pam-gnupg
 paru
-paru-debug
 perl-compress-raw-lzma
 perl-file-mimeinfo
 perl-image-exiftool
@@ -212,7 +211,6 @@ rofi-bluetooth-git
 rofi-emoji-git
 rsync
 rust-analyzer
-sddm
 seahorse
 slurp
 sof-firmware

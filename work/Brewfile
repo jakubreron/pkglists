@@ -3,6 +3,8 @@ tap "asmvik/formulae", "https://github.com/asmvik/homebrew-formulae.git"
 tap "felixkratz/formulae"
 tap "jstkdng/programs"
 tap "nikitabobko/tap"
+# Static checker for GitHub Actions workflow files
+brew "actionlint"
 # Tool for reverse engineering 3rd party, closed, binary Android apps
 brew "apktool"
 # Code searching, linting, rewriting
@@ -13,6 +15,8 @@ brew "atool"
 brew "bash"
 # Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
+# Secure and free password manager for all of your devices
+brew "bitwarden-cli"
 # Resource monitor. C++ version and continuation of bashtop and bpytop
 brew "btop"
 # Versatile and fast Unicode/ASCII/ANSI graphics renderer
@@ -31,6 +35,8 @@ brew "colordiff"
 brew "cpp-gsl"
 # Command-line tool for getting & setting the default browser
 brew "defaultbrowser"
+# Secure runtime for JavaScript and TypeScript
+brew "deno"
 # Lightweight DNS forwarder and DHCP server
 brew "dnsmasq"
 # Pack, ship and run any application as a lightweight container
@@ -120,11 +126,7 @@ brew "ncdu"
 # Fast, highly customisable system info script
 brew "neofetch"
 # Ambitious Vim-fork focused on extensibility and agility
-brew "neovim"
-# No Nonsense Neovim Client in Rust
-brew "neovide"
-# Control nvim processes using `nvr` command-line tool
-brew "neovim-remote"
+brew "neovim", args: ["HEAD"]
 # HTTP(S) server and reverse proxy, and IMAP/POP3 proxy server
 brew "nginx", restart_service: :changed
 # JSON for modern C++
@@ -137,8 +139,16 @@ brew "nss"
 brew "nvm"
 # Convert OpenDocument files to plain text
 brew "odt2txt"
+# Development kit for the Java programming language
+brew "openjdk@11"
+# Development kit for the Java programming language
+brew "openjdk@17"
+# Multithreaded PNG optimizer written in Rust
+brew "oxipng"
 # Swiss-army knife of markup format conversion
 brew "pandoc"
+# Pinentry for GPG on Mac
+brew "pinentry-mac"
 # Package compiler and linker metadata toolkit
 brew "pkgconf"
 # PDF rendering library (based on the xpdf-3.0 code base)
@@ -147,6 +157,8 @@ brew "poppler"
 brew "postgresql@18", restart_service: :changed
 # Python version management
 brew "pyenv"
+# Static type checker for Python
+brew "pyright"
 # Generic machine emulator and virtualizer
 brew "qemu"
 # Experimental range library for C++14/17/20
@@ -181,10 +193,16 @@ brew "yarn", link: false
 brew "yq"
 # GPU-accelerated terminal emulator
 cask "alacritty"
+# Command-line tools for building and debugging Android apps
+cask "android-commandlinetools"
 # Android SDK component
 cask "android-platform-tools"
+# Tools for building Android applications
+cask "android-studio"
 # Memory training application
 cask "anki"
+# Desktop password and login vault
+cask "bitwarden"
 # Prevents your sleeping computer from connecting to Bluetooth accessories
 cask "bluesnooze"
 # Open source IDE for exploring and testing APIs
@@ -206,6 +224,8 @@ cask "font-jetbrains-mono-nerd-font"
 cask "git-credential-manager"
 # Keyboard customiser
 cask "karabiner-elements"
+# Communicate with your handheld devices
+cask "kde-connect"
 # Software for Logitech devices
 cask "logi-options+"
 # Software for Logitech devices
@@ -214,33 +234,17 @@ cask "logitech-options"
 cask "microsoft-outlook"
 # Meet, chat, call, and collaborate in just one place
 cask "microsoft-teams"
+# Local-first alternative to Logitech Options+ for HID++ devices
+cask "openlogi"
 # Tool to reverse the direction of scrolling
 cask "scroll-reverser"
 # Team communication and collaboration software
 cask "slack"
 # Calling and messaging application focusing on security
 cask "viber"
-# Open-source code editor
-cask "visual-studio-code"
 # Mirror and control your phone
 cask "vysor"
 mas "LastPass", id: 926036361
 mas "Okta Verify", id: 490179405
-vscode "bierner.markdown-mermaid"
-vscode "davidanson.vscode-markdownlint"
-vscode "dbaeumer.vscode-eslint"
-vscode "esbenp.prettier-vscode"
-vscode "firsttris.vscode-jest-runner"
-vscode "humao.rest-client"
-vscode "ms-playwright.playwright"
-vscode "ms-vscode-remote.remote-containers"
-vscode "unifiedjs.vscode-mdx"
-vscode "yoavbls.pretty-ts-errors"
 npm "@lhci/cli"
-npm "@openai/codex"
-npm "biome"
-npm "lighthouse"
-npm "markdownlint-cli"
-npm "markdownlint"
-npm "nodemon"
-npm "stylelint"
+npm "corepack"

@@ -1,9 +1,9 @@
 abook
 acpi
 acpilight
-adw-gtk3
+adw-gtk-theme
 alacritty
-anki-bin
+anki
 arkenfox-user.js
 aspell
 atool
@@ -13,6 +13,7 @@ bat
 bc
 betterdiscord-installer-bin
 bind
+bitwarden
 blanket
 blueman
 bluez-utils
@@ -95,7 +96,6 @@ kitty
 kvantum
 kvantum-theme-catppuccin-git
 kvantum-theme-libadwaita-git
-laptop-detect
 lazydocker-bin
 lazygit
 lf
@@ -188,10 +188,9 @@ ripgrep
 rofi-bluetooth-git
 rofi-calc
 rofi-emoji
-rofi-lbonn-wayland
+rofi
 rsync
 rust-analyzer
-sddm
 seahorse
 shellcheck
 slurp
@@ -205,7 +204,6 @@ stress
 swappy
 swayidle
 swaylock
-teams
 tesseract
 tesseract-data-jpn
 tesseract-data-osd
@@ -230,7 +228,7 @@ vi
 vim
 vulkan-intel
 w3m
-waybar-hyprland
+waybar
 wdisplays
 wf-recorder
 wget
