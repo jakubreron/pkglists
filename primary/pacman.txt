@@ -6,7 +6,7 @@ adwaita-qt6
 aerc
 alacritty
 android-sdk-platform-tools
-anki-bin
+anki
 aquamarine
 aspell
 atool
@@ -185,7 +185,6 @@ os-prober
 pacman-contrib
 pam-gnupg
 paru
-paru-debug
 perl-compress-raw-lzma
 perl-file-mimeinfo
 perl-image-exiftool

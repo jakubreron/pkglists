@@ -1,9 +1,9 @@
 abook
 acpi
 acpilight
-adw-gtk3
+adw-gtk-theme
 alacritty
-anki-bin
+anki
 arkenfox-user.js
 aspell
 atool
@@ -189,7 +189,7 @@ ripgrep
 rofi-bluetooth-git
 rofi-calc
 rofi-emoji
-rofi-lbonn-wayland
+rofi
 rsync
 rust-analyzer
 sddm
@@ -206,7 +206,6 @@ stress
 swappy
 swayidle
 swaylock
-teams
 tesseract
 tesseract-data-jpn
 tesseract-data-osd
@@ -231,7 +230,7 @@ vi
 vim
 vulkan-intel
 w3m
-waybar-hyprland
+waybar
 wdisplays
 wf-recorder
 wget
