@@ -6,7 +6,7 @@ adwaita-qt6
 aerc
 alacritty
 android-sdk-platform-tools
-anki
+anki-bin
 aquamarine
 aspell
 atool
@@ -15,7 +15,7 @@ base-devel
 bat
 bc
 bind
-bitwarden
+bitwarden-cli
 blueberry
 bluez-utils
 bmon
@@ -124,6 +124,7 @@ john
 jq
 kdeconnect
 keyd
+laptop-detect
 lazydocker
 lazygit
 lf
@@ -160,7 +161,7 @@ nautilus
 ncdu
 ncmpcpp
 neofetch
-neovim
+neovim-nightly-bin
 neovim-remote
 net-tools
 nethogs
@@ -211,6 +212,7 @@ rofi-bluetooth-git
 rofi-emoji-git
 rsync
 rust-analyzer
+sddm
 seahorse
 slurp
 sof-firmware
