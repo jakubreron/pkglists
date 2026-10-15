@@ -191,7 +191,6 @@ rofi-emoji
 rofi
 rsync
 rust-analyzer
-sddm
 seahorse
 shellcheck
 slurp
