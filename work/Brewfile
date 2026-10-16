@@ -201,8 +201,6 @@ cask "android-platform-tools"
 cask "android-studio"
 # Memory training application
 cask "anki"
-# Desktop password and login vault
-cask "bitwarden"
 # Prevents your sleeping computer from connecting to Bluetooth accessories
 cask "bluesnooze"
 # Open source IDE for exploring and testing APIs

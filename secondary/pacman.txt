@@ -13,7 +13,6 @@ bat
 bc
 betterdiscord-installer-bin
 bind
-bitwarden
 blanket
 blueman
 bluez-utils
