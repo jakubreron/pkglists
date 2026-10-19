@@ -1,6 +1,6 @@
 tap "achannarasappa/tap", "https://github.com/achannarasappa/tap.git"
 tap "asmvik/formulae", "https://github.com/asmvik/homebrew-formulae.git"
-tap "felixkratz/formulae"
+tap "felixkratz/formulae", trusted: true
 tap "jstkdng/programs"
 tap "nikitabobko/tap"
 # Static checker for GitHub Actions workflow files
@@ -15,6 +15,8 @@ brew "atool"
 brew "bash"
 # Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
+# Open-source, cross-platform JavaScript runtime environment
+brew "node"
 # Secure and free password manager for all of your devices
 brew "bitwarden-cli"
 # Resource monitor. C++ version and continuation of bashtop and bpytop
@@ -75,6 +77,8 @@ brew "git-crypt"
 brew "git-delta"
 # Git extension for versioning large files
 brew "git-lfs"
+# Audit git repos for secrets
+brew "gitleaks"
 # GNU implementation of the famous stream editor
 brew "gnu-sed"
 # GNU Privacy Guard (OpenPGP)
@@ -129,8 +133,6 @@ brew "neovim", args: ["HEAD"]
 brew "nginx", restart_service: :changed
 # JSON for modern C++
 brew "nlohmann-json"
-# Open-source, cross-platform JavaScript runtime environment
-brew "node"
 # Libraries for security-enabled client and server applications
 brew "nss"
 # Manage multiple Node.js versions
@@ -189,6 +191,8 @@ brew "xh"
 brew "yarn", link: false
 # Process YAML, JSON, XML, CSV and properties documents from the CLI
 brew "yq"
+# A window border system for macOS
+brew "felixkratz/formulae/borders"
 # GPU-accelerated terminal emulator
 cask "alacritty"
 # Command-line tools for building and debugging Android apps
