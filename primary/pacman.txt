@@ -64,12 +64,10 @@ fd
 ffmpegthumbnailer
 file-roller
 firefox
-fnm-bin
 fprintd
 fwupd
 fzf
 geary
-gemini-cli
 geoclue
 gimp
 git
@@ -259,6 +257,7 @@ wl-clipboard
 wlr-randr
 wtype
 xdg-desktop-portal-hyprland
+xdg-ninja
 xwaylandvideobridge
 yt-dlp
 zam-plugins
