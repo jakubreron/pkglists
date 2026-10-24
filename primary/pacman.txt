@@ -4,7 +4,6 @@ adw-gtk-theme
 adwaita-qt6
 aerc
 alacritty
-android-sdk-platform-tools
 anki-bin
 aquamarine
 aspell
@@ -26,7 +25,6 @@ cheese
 chromium
 claude-code
 cliphist
-cmake
 cmatrix
 cpio
 ctags
@@ -99,7 +97,6 @@ hyprtoolkit
 hyprutils
 hyprwayland-scanner
 hyprwire
-i7z
 imagemagick
 intel-media-driver
 intel-ucode
@@ -125,9 +122,7 @@ man-db
 marker
 mda.lv2
 mediainfo
-meld
 mesa-utils
-meson
 mpc
 mpd
 mpv
@@ -186,7 +181,6 @@ seahorse
 slurp
 sof-firmware
 speech-dispatcher
-speedtest-cli
 steam
 stow
 stress
@@ -220,7 +214,6 @@ whois
 wifitui
 wireplumber
 wl-clipboard
-wtype
 xdg-desktop-portal-hyprland
 xdg-ninja
 xwaylandvideobridge
