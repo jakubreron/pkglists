@@ -1,6 +1,5 @@
 7zip
 acpi
-acpilight
 adw-gtk-theme
 adwaita-qt6
 aerc
@@ -56,6 +55,7 @@ epub-thumbnailer-git
 ex-vi-compat
 exfat-utils
 eza
+fastfetch
 fcitx5
 fcitx5-configtool
 fcitx5-gtk
@@ -67,7 +67,6 @@ firefox
 fprintd
 fwupd
 fzf
-geary
 geoclue
 gimp
 git
@@ -115,7 +114,6 @@ imagemagick
 intel-compute-runtime
 intel-media-driver
 intel-ucode
-intel-undervolt
 iwd
 jmtpfs
 john
@@ -132,7 +130,6 @@ lib32-vulkan-intel
 libnotify
 libpulse
 libreoffice-fresh
-libva-intel-driver
 libva-utils
 libvoikko
 light
@@ -158,7 +155,6 @@ mtr
 nautilus
 ncdu
 ncmpcpp
-neofetch
 neovim-nightly-bin
 neovim-remote
 net-tools
@@ -220,12 +216,10 @@ steam
 stow
 stress
 swappy
-swayidle
 tesseract
 tesseract-data-jpn
 tesseract-data-osd
 throttled
-thunderbird
 ticker-bin
 tldr
 tlp
@@ -245,7 +239,6 @@ vlc
 vulkan-intel
 w3m
 waybar
-wdisplays
 wev
 wezterm
 wf-recorder
@@ -254,7 +247,6 @@ whois
 wifitui
 wireplumber
 wl-clipboard
-wlr-randr
 wtype
 xdg-desktop-portal-hyprland
 xdg-ninja
