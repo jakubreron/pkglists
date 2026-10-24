@@ -5,7 +5,6 @@ adwaita-qt6
 aerc
 alacritty
 anki-bin
-aquamarine
 aspell
 atool
 base
@@ -78,12 +77,9 @@ gst-plugin-pipewire
 gtk3
 gvfs-mtp
 hyprcursor
-hyprgraphics
 hypridle
 hyprland
 hyprland-guiutils
-hyprland-protocols
-hyprlang
 hyprlauncher
 hyprlock
 hyprpaper
@@ -93,10 +89,7 @@ hyprqt6engine
 hyprshutdown
 hyprsunset
 hyprsysteminfo
-hyprtoolkit
-hyprutils
 hyprwayland-scanner
-hyprwire
 imagemagick
 intel-media-driver
 intel-ucode
