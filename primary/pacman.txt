@@ -29,7 +29,6 @@ cliphist
 cmake
 cmatrix
 cpio
-cronie
 ctags
 darkman
 dbeaver
@@ -40,7 +39,6 @@ discord
 dkms
 dnsmasq
 docx2txt
-dog
 dosfstools
 downgrade
 dragon-drop
@@ -53,7 +51,6 @@ efibootmgr
 entr
 epub-thumbnailer-git
 ex-vi-compat
-exfat-utils
 eza
 fastfetch
 fcitx5
@@ -78,17 +75,13 @@ gnome-keyring
 gnome-multi-writer
 gnome-sound-recorder
 gnome-system-monitor
-gnumeric
 go
-gobject-introspection
 gparted
 grim
 grub
 gst-plugin-pipewire
 gtk3
 gvfs-mtp
-hashcat
-hspell
 hyprcursor
 hyprgraphics
 hypridle
@@ -116,12 +109,10 @@ intel-media-driver
 intel-ucode
 iwd
 jmtpfs
-john
 jq
 kdeconnect
 keyd
 laptop-detect
-lazydocker
 lazygit
 lf
 lib32-mesa
@@ -129,9 +120,7 @@ lib32-ocl-icd
 lib32-vulkan-intel
 libnotify
 libpulse
-libreoffice-fresh
 libva-utils
-libvoikko
 light
 linux
 linux-firmware
@@ -140,7 +129,6 @@ loupe
 lsp-plugins
 man-db
 marker
-mcfly
 mda.lv2
 mediainfo
 meld
@@ -193,12 +181,7 @@ prismlauncher
 procs
 profile-cleaner
 pulsemixer
-python-pip
-python-setuptools
-qt5-tools
 qt5-wayland
-qt6-tools
-rarcrack
 reflector
 ripgrep
 rofi
@@ -240,7 +223,6 @@ vulkan-intel
 w3m
 waybar
 wev
-wezterm
 wf-recorder
 wget
 whois
