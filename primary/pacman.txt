@@ -34,7 +34,6 @@ darkman
 dbeaver
 ddcutil
 dhcpcd
-dialog
 discord
 dkms
 dnsmasq
@@ -73,8 +72,6 @@ gnome-calculator
 gnome-disk-utility
 gnome-keyring
 gnome-multi-writer
-gnome-sound-recorder
-gnome-system-monitor
 go
 gparted
 grim
@@ -104,11 +101,9 @@ hyprwayland-scanner
 hyprwire
 i7z
 imagemagick
-intel-compute-runtime
 intel-media-driver
 intel-ucode
 iwd
-jmtpfs
 jq
 kdeconnect
 keyd
@@ -116,7 +111,6 @@ laptop-detect
 lazygit
 lf
 lib32-mesa
-lib32-ocl-icd
 lib32-vulkan-intel
 libnotify
 libpulse
@@ -138,14 +132,12 @@ mpc
 mpd
 mpv
 mpv-mpvacious
-msr-tools
 mtr
 nautilus
 ncdu
 ncmpcpp
 neovim-nightly-bin
 neovim-remote
-net-tools
 nethogs
 networkmanager
 nginx
@@ -218,7 +210,6 @@ unrar
 unzip
 urlview
 vim
-vlc
 vulkan-intel
 w3m
 waybar
