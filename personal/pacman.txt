@@ -18,6 +18,7 @@ breeze
 btop
 calf
 catdoc
+chafa
 cheese
 chromium
 claude-code
@@ -61,9 +62,9 @@ gnome-calculator
 gnome-disk-utility
 gnome-keyring
 gnome-multi-writer
+gnumeric
 gparted
 grim
-grub
 gst-plugin-pipewire
 gtk3
 gvfs-mtp
@@ -99,7 +100,6 @@ loupe
 lsp-plugins
 man-db
 marker
-mediainfo
 mesa-utils
 mpc
 mpd
@@ -112,7 +112,6 @@ neovim-nightly-bin
 neovim-remote
 nethogs
 networkmanager
-nmap
 notmuch
 noto-fonts
 noto-fonts-cjk
@@ -164,7 +163,6 @@ transmission-cli
 tremc
 ttf-jetbrains-mono-nerd
 ttf-ubraille
-tumbler
 unrar
 unzip
 vim
