@@ -165,7 +165,6 @@ tremc
 ttf-jetbrains-mono-nerd
 ttf-ubraille
 tumbler
-ueberzugpp
 unrar
 unzip
 vim

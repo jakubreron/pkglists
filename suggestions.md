@@ -44,7 +44,7 @@ Written on 2026-10-27 from the `pkglists` history and a search of the dotfiles. 
 * Power: `tlp`, `throttled`, `powertop`. `powertop` auto-tuning can fight `tlp`. `throttled` is for the ThinkPad throttling fix in `todo.md`, so keep it if that is still wanted.
 * Archive tools: `7zip`, `atool`, `file-roller`. Three tools for one job.
 * Disk tools: `gparted` and `gnome-disk-utility` overlap.
-* Previews and thumbnails: `tumbler`, `ffmpegthumbnailer`, `epub-thumbnailer-git`, `ueberzugpp`, `docx2txt`, `odt2txt`, `catdoc`, `mediainfo`, `tesseract`, `tesseract-data-jpn`, `tesseract-data-osd`. Keep only what `lf` previews or a script really calls.
+* Previews and thumbnails: `tumbler`, `ffmpegthumbnailer`, `epub-thumbnailer-git`, `docx2txt`, `odt2txt`, `catdoc`, `mediainfo`, `tesseract`, `tesseract-data-jpn`, `tesseract-data-osd`. Keep only what `lf` previews or a script really calls.
 * Audio plugins for EasyEffects: `calf`, `lsp-plugins`, `zam-plugins`, `mda.lv2`. Often only one suite is used.
 * Keyring and login: `gnome-keyring`, `seahorse`, `pam-gnupg`.
 * Monitoring: `bmon`, `nethogs`, `mtr`, `procs`, `dust`, `ncdu`. Pick the ones you open.
@@ -158,7 +158,6 @@ Descriptions come from the official repository databases and the AUR.
 * `pipewire-jack` (extra): Low-latency audio/video router and processor - JACK replacement
 * `qt5-wayland` (extra): Provides APIs for Wayland
 * `transmission-cli` (extra): Fast, easy, and free BitTorrent client (CLI tools, daemon and web client)
-* `ueberzugpp` (extra): Command line utility which allows to display images in the terminal, written in C++
 * `wf-recorder` (extra): Screen recorder for wlroots-based compositors such as sway
 * `zam-plugins` (extra): Collection of audio plugins for high-quality processing
 * `zathura-pdf-mupdf` (extra): PDF support for Zathura (MuPDF backend) (Supports PDF, ePub, and OpenXPS)
