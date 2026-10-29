@@ -57,6 +57,7 @@ fzf
 geoclue
 git
 git-delta
+gitleaks
 glow
 gnome-calculator
 gnome-disk-utility
