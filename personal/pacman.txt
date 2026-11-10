@@ -36,7 +36,6 @@ dragon-drop
 drawing
 duf
 dunst
-easyeffects
 efibootmgr
 entr
 epub-thumbnailer-git
