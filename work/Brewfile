@@ -234,6 +234,8 @@ cask "git-credential-manager"
 cask "karabiner-elements"
 # Communicate with your handheld devices
 cask "kde-connect"
+# GPU-based terminal emulator
+cask "kitty"
 # Software for Logitech devices
 cask "logi-options+"
 # Software for Logitech devices
