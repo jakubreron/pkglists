@@ -79,6 +79,8 @@ brew "git-delta"
 brew "git-lfs"
 # Audit git repos for secrets
 brew "gitleaks"
+# Reverse tethering tool for Android
+brew "gnirehtet"
 # GNU implementation of the famous stream editor
 brew "gnu-sed"
 # GNU Privacy Guard (OpenPGP)
@@ -129,6 +131,8 @@ brew "ncdu"
 brew "neofetch"
 # Ambitious Vim-fork focused on extensibility and agility
 brew "neovim", args: ["HEAD"]
+# Control nvim processes using `nvr` command-line tool
+brew "neovim-remote"
 # HTTP(S) server and reverse proxy, and IMAP/POP3 proxy server
 brew "nginx", restart_service: :changed
 # JSON for modern C++
@@ -145,6 +149,8 @@ brew "openjdk@11"
 brew "openjdk@17"
 # Multithreaded PNG optimizer written in Rust
 brew "oxipng"
+# PAM module for reattaching to the user's GUI (Aqua) session
+brew "pam-reattach"
 # Swiss-army knife of markup format conversion
 brew "pandoc"
 # Pinentry for GPG on Mac
@@ -185,10 +191,10 @@ brew "tree-sitter-cli"
 brew "watch"
 # Internet file retriever
 brew "wget"
+# Check your $HOME for unwanted files and directories
+brew "xdg-ninja"
 # Friendly and fast tool for sending HTTP requests
 brew "xh"
-# JavaScript package manager
-brew "yarn", link: false
 # Process YAML, JSON, XML, CSV and properties documents from the CLI
 brew "yq"
 # A window border system for macOS
@@ -236,6 +242,8 @@ cask "microsoft-outlook"
 cask "microsoft-teams"
 # Local-first alternative to Logitech Options+ for HID++ devices
 cask "openlogi"
+# Android file transfer
+cask "openmtp"
 # Tool to reverse the direction of scrolling
 cask "scroll-reverser"
 # Team communication and collaboration software
@@ -246,5 +254,4 @@ cask "viber"
 cask "vysor"
 mas "LastPass", id: 926036361
 mas "Okta Verify", id: 490179405
-npm "@lhci/cli"
 npm "corepack"
