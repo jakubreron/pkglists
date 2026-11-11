@@ -33,6 +33,8 @@ brew "cointop"
 brew "colima", restart_service: :changed
 # Color-highlighted diff(1) output
 brew "colordiff"
+# GNU File, Shell, and Text utilities
+brew "coreutils"
 # Microsoft's C++ Guidelines Support Library
 brew "cpp-gsl"
 # Command-line tool for getting & setting the default browser
