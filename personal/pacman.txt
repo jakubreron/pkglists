@@ -158,6 +158,7 @@ throttled
 ticker-bin
 tldr
 tlp
+tlp-pd
 tmux
 transmission-cli
 tremc
