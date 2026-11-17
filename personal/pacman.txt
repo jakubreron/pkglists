@@ -15,6 +15,7 @@ bitwarden-cli
 blueberry
 bluez-utils
 breeze
+brightnessctl
 btop
 calf
 catdoc
@@ -93,7 +94,6 @@ lib32-vulkan-intel
 libnotify
 libpulse
 libva-utils
-light
 linux
 linux-firmware
 loupe
