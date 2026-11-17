@@ -14,6 +14,7 @@ bitwarden-cli
 blueberry
 bluez-utils
 breeze
+brightnessctl
 btop
 calf
 catdoc
@@ -92,7 +93,6 @@ lib32-vulkan-intel
 libnotify
 libpulse
 libva-utils
-light
 linux
 linux-firmware
 loupe
@@ -159,6 +159,7 @@ throttled
 ticker-bin
 tldr
 tlp
+tlp-pd
 tmux
 transmission-cli
 tremc
