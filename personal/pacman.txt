@@ -2,7 +2,6 @@
 acpi
 adw-gtk-theme
 adwaita-qt6
-aerc
 alacritty
 anki-bin
 aspell
@@ -145,6 +144,8 @@ rofi
 rofi-bluetooth-git
 rofi-emoji-git
 rsync
+rust
+sealwax
 slurp
 sof-firmware
 steam
