@@ -3,7 +3,7 @@ acpi
 adw-gtk-theme
 adwaita-qt6
 alacritty
-anki-bin
+anki
 aspell
 base
 base-devel
@@ -19,7 +19,6 @@ btop
 calf
 catdoc
 chafa
-cheese
 chromium
 claude-code
 cliphist
@@ -135,6 +134,7 @@ pipewire-jack
 pipewire-pulse
 playerctl
 poppler
+powertop
 profile-cleaner
 pulsemixer
 qt5-wayland
